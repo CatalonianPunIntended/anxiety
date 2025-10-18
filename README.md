@@ -3,6 +3,8 @@
 * Make the graphics
 * Finish some MDs
 * Check spelling/grammar issues
+* Check bugs
+* Change the pause message (too long)
 
 ![](https://ncase.me/anxiety/sharing/banner.png)
 

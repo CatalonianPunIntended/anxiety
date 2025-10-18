@@ -32,7 +32,7 @@ n: HAS DE PROTEGIR AL TEU ÉSSER HUMÀ DEL *PERILL*
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
-n: DE FET, JUGAR AQUEST JOC DE NOU ESTÀ POSANT-LA EN *PERILL* ARA MATEIX
+n: DE FET, JUGAR AQUEST JOC DE NOU EL POSA EN *PERILL* ARA MATEIX
 
 n: RÀPID, AVISEU-LO!
 
@@ -141,7 +141,7 @@ b: I finalment nosaltres--
 
 `bb({body:"panic"})`
 
-b: MORIREEEEEEEEEEEEEEEEEEEM
+b: MORIREEEEEEEEEEEEM
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -194,9 +194,9 @@ n: HAS DE PROTEGIR AL TEU HUMÀ DEL *PERILL*
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
-n: DE FET, AQUELL SÀNDVITX DE NOU ESTÀ POSANT-LA EN *PERILL* ARA MATEIX
+n: DE FET, AQUELL SÀNDVITX DE NOUS EL POSA EN *PERILL* ARA MATEIX
 
-n: RÀPID, AVISEU-LA!
+n: RÀPID, AVISEU-LO!
 
 ```
 sfx("squeak");
@@ -214,11 +214,11 @@ n4: (DEIXA QUE LA _TEVA_ ANSIETAT VINGUI A JUGAR! ESCULL EL QUE S'APROXIMI MÉS 
 
 # act1_normal_choice
 
-[Estem menjant sols! Un altre cop!]
+[Estem menjant sols! Un altre cop!](#act1a_alone) `bb({body:"squeeze_talk"})`
 
-[Menjant no sóm productius!]
+[Menjant no sóm productius!](#act1a_productive) `bb({body:"squeeze_talk"})`
 
-[Aquest pa blanc és nociu per nosaltres!]
+[Aquest pa blanc és nociu per nosaltres!](#act1a_bread) `bb({body:"squeeze_talk"})`
 
 # act1a_alone
 
@@ -247,7 +247,7 @@ b: Que vol dir que si no parlem amb algú *ara mateix* nosaltres-
 
 `bb({body:"panic"})`
 
-b: MORIREEEEEEEEEEEEEEEEEEEM
+b: MORIREEEEEEEEEEEEM
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -271,11 +271,11 @@ bb({body:"normal", mouth:"small", eyes:"normal"});
 hong({body:"0_sammich"});
 ```
 
-b: Treu el teu portàtil i fes alguna cosa ara mateix!
+b: Treu el portàtil i fes alguna cosa ara mateix!
 
 `hong({eyes:"0_annoyed"})`
 
-h: Ehm, jo voldria no tenir molles al tecla--
+h: Ehm, no m'agradaria tenir molles al tecla--
 
 ```
 bb({mouth:"normal", eyes:"fear"});
@@ -284,14 +284,14 @@ Game.OVERRIDE_TEXT_SPEED = 1.5;
 
 b: Si no contribuïm al cos de la societat serem uns paràsits de la societat!
 
-b: El cos de la societat anirà al doctor per a societats per medicar-se per matar als paràsits de la societat i després--
+b: El cos de la societat anirà al doctor per a societats, es medicarà per matar als paràsits de la societat i després--
 
 ```
 bb({body:"panic", mouth:"normal", eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: MORIREEEEEEEEEEEEEEEEEEEM
+b: MORIREEEEEEEEEEEEM
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -315,7 +315,7 @@ bb({body:"normal", mouth:"normal", eyes:"fear"});
 hong({body:"0_sammich", eyes:"0_annoyed"});
 ```
 
-h: Aquests estudis han sigut replica--
+h: Han pogut replicar els es--
 
 ```
 bb({body:"fear", mouth:"normal", eyes:"fear"});
@@ -326,7 +326,7 @@ b: El blat processat augmentarà el sucre en sang i hauran d'amputar-nos totes l
 
 `bb({body:"panic"})`
 
-b: MORIREEEEEEEEEEEEEEEEEEEM
+b: MORIREEEEEEEEEEEEM
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -339,7 +339,7 @@ publish("hp_show");
 
 `_.whitebread = true`
 
-n: HAS FET SERVIR LA *POR A REBRE FERIDES*
+n: HAS FET SERVIR LA *POR AL DANY FÍSIC*
 
 (#act1b)
 
@@ -361,9 +361,9 @@ n: FES QUE LA SEVA BARRA D'ENERGIA ARRIBI A ZERO
 
 n: PER PROTEGIR LES SEVES INTEGRITATS FÍSIQUES + SOCIALS + MORALS, POTS FER SERVIR:
 
-n: LA POR A *REBRE FERIDES* #harm#
+n: LA POR AL *DANY FÍSIC* #harm#
 
-n: LA POR A *LA MARGINACIÓ* #alone#
+n: LA POR A LA *MARGINACIÓ* #alone#
 
 n: I LA POR A *SER UNA MALA PERSONA* #bad#
 
@@ -428,7 +428,7 @@ h: Espera, a més m'ha enviat l'invitació?
 
 `bb({eyes:"fear", mouth:"normal"});`
 
-b: Ara bé...!
+b: Ara...!
 
 [Accepta-la, o ens morirem sols!](#act1c_loner)
 
@@ -605,9 +605,9 @@ h: Què hi ha de nou al Twitter?
 
 [Oh no, fixa't en aquella noticia terrible!](#act1d_news)
 
-[Oh no, és aquest twit una indirecta cap a *nosaltres*?](#act1d_subtweet)
+[Oh no, una indirecta cap a *nosaltres*?](#act1d_subtweet)
 
-[Ei, un GIF d'un gatet bevent llet](#ct1d_milk)
+[Ei, un GIF d'un gatet bevent llet](#act1d_milk)
 
 
 # act1d_news
@@ -727,7 +727,7 @@ h: d'a-CORD, provaré l'Snapchat.
 
 `hong({mouth:"smile", eyes:"neutral"});`
 
-Proposta h: Ei, és molt maco, l'acabo de repiular, penso q--
+h: Ei, és molt maco, l'acabo de repiular, penso q--
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -760,7 +760,7 @@ h: d'a-CORD, provaré l'Snapchat.
 
 `hong({mouth:"neutral", eyes:"neutral"});`
 
-h: Ah, fotos d'ahir a la nit. Així que *així* són les festes setmanals.
+h: Ah, fotos d'ahir a la nit. *Així* són les festes setmanals.
 
 {{if _.partyinvite=="yes"}} (#act1e_said_yes) {{/if}}
 
@@ -783,7 +783,7 @@ bb({mouth:"normal", eyes:"normal"});
 
 [Canviar la nostra resposta? Com uns idiotes?!](#act1e_yes_dontchange)
 
-[Canviem la nostra resposta! Està massa ple!](€act1e_yes_changetono)
+[Canviem la nostra resposta! Està massa ple!](#act1e_yes_changetono)
 
 {{if _.subtweet}}
 [Sí, ens estaven subtwitejant definitivament.](#act1e_ignore_subtweet)
@@ -892,7 +892,7 @@ h: Potser era millor acceptar la invitació?
 
 [Canviar la nostra resposta? Com uns idiotes?!](#act1e_no_dontchange)
 
-[Canviem la nostra resposta! No volem morir sols!](€act1e_no_changetoyes)
+[Canviem la nostra resposta! No volem morir sols!](#act1e_no_changetoyes)
 
 {{if _.subtweet}}
 [Sí, definitivament ens subpiulen.](#act1e_ignore_subtweet)
@@ -1148,7 +1148,7 @@ hong({eyes:"surprise", mouth:"smile"});
 bb({eyes:"normal"});
 ```
 
-h: Oh, tinc un «match»! Sembla molt maco!
+h: Oh, tinc un «match»! Sembla agradable!
 
 ```
 bb({eyes:"narrow_eyebrow"});
@@ -1166,17 +1166,17 @@ b: PERILL PERILL PERILL PERILL PERILL PERILL
 
 `bb({body:"fear", eyes:"fear", mouth:"normal"})`
 
-[Estem sent *utilitzats* per altra gent.]
+[Estem sent *utilitzats* per altra gent.](#act1f_used_by_others)
 
-[Estem *utilitzant* a altra gent.]
+[Estem *utilitzant* a altra gent.](#act1f_using_others)
 
-[EL TEU «MATCH» ÉS UN ASSASSÍ EN SÉRIE]
+[EL TEU «MATCH» ÉS UN ASSASSÍ EN SÉRIE](#act1f_killer)
 
 # act1f_used_by_others
 
 `bb({body:"point_crotch", eyes:"normal", mouth:"normal"})`
 
-b: Parelles escollides per atzar poden emplenar el forat que tens allà abaix,
+b: Parelles escollides a l'atzar poden emplenar el forat que tens allà abaix,
 
 b: però mai podran emplenar el forat que tens...
 
@@ -1249,7 +1249,7 @@ bb({eyes:"pretty"});
 Game.FORCE_TEXT_DURATION = 2300;
 ```
 
-b: ♫ Cuixes i ^cul^, pitram voluptuós-
+b: ♫ Cuixes i ^cul^, tot voluptuós-
 
 (...500)
 
@@ -1258,7 +1258,7 @@ bb({eyes:"fear", mouth:"normal"});
 Game.FORCE_TEXT_DURATION = 2000;
 ```
 
-b: ♫ i l'altre li toca els ^collons^!-
+b: ♫ i l'altre amb els ^collons^!-
 
 (...1000)
 
@@ -1334,7 +1334,7 @@ h: ...
 
 (...500)
 
-h: n'estic farta d'aquest joc.
+h: n'estic fart d'aquest joc.
 
 (...700)
 
@@ -1353,7 +1353,7 @@ h:
 
 h: només vull viure la meva vida.
 
-h: només vull parar de... sofrir així.
+h: només vull parar de... sofrir d'aquesta forma.
 
 `bb({eyes:"look_sad"});`
 
@@ -1367,7 +1367,7 @@ b: Tot anirà bé.
 
 `bb({body:"point_heart", eyes:"look_sad_smile", mouth:"smile"});`
 
-b: Com el lleial llop guardià que soc, sempre faig una ullada al perill, i faig el que puc perr mantenir-te segura.
+b: Com el lleial llop guardià que soc, sempre faig una ullada al perill, i faig el que puc per mantenir-te segur.
 
 `bb({body:"normal", eyes:"look_sad", mouth:"smile"});`
 
@@ -1388,7 +1388,7 @@ h: Són... més fotos de la festa.
 
 `hong({mouth:"sad"});`
 
-h: Tothom sembla estar content. Sense preocupacions. Sense anxietats.
+h: Tothom sembla estar content. Sense preocupacions. Sense ansietat.
 
 `hong({mouth:"anger"});`
 
@@ -1592,7 +1592,7 @@ n: *ACABA'LS*
 
 [{LLUITA: Castiga el teu estressant telèfon!}](#act1i_phone) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[{FUGIDA: Cargola't com una pilota i plora!}](#act1i_phone) `Game.OVERRIDE_CHOICE_LINE=true`
+[{FUGIDA: Cargola't com una pilota i plora!}](#act1i_cry) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act1i_phone
 

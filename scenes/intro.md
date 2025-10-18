@@ -39,7 +39,7 @@ _.PLAYED_BEFORE = !!window.localStorage.continueChapter;
 {{/if}}
 
 {{if _.PLAYED_BEFORE}}
-[Sel·lecciona Capítol](#chapter-select) `Game.OVERRIDE_CHOICE_LINE=true;`
+[Sel·lecciona un Capítol](#chapter-select) `Game.OVERRIDE_CHOICE_LINE=true;`
 {{/if}}
 
 [(notes de contingut)](#intro-play-button) `Game.OVERRIDE_CHOICE_LINE=true; publish('show_cn');`
@@ -98,7 +98,7 @@ n3: Abans de començar, com voldries llegir *tu*?
 
 `publish("show_options_bottom")`
 
-# intro-start-3
+# intro-start-2
 
 n3: Molt bé! Nota: pots canviar la configuració amb la icona ⚙ de més avall. A més, el joc es desa automàticament després de cada capítol!
 

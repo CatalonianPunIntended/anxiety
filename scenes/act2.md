@@ -59,7 +59,7 @@ s: Veritat, però només segueixen incentius. El problema *real* són els que fa
 publish("act2",["dee",3]);
 ```
 
-s: Qui faria retuit d'una terrible història, i fer que tots els seus amics se sentin malament?
+s: Qui faria repiolada d'una terrible història, i fer que tots els seus amics se sentin malament?
 
 ```
 publish("act2",["party_hunter",1]);
@@ -93,7 +93,7 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",3]);
 ```
 
-a: Ja, molt falsa. Qui podria caure a tal cosa i retuitear-ho?
+a: Ja, molt falsa. Qui podria caure a tal cosa i repiolar-ho?
 
 ```
 publish("act2",["dum",2]);
@@ -157,13 +157,13 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",1]);
 ```
 
-s: Bé, ahir vaig veure algú retuitejant un GIF d'un gat bevent llet.
+s: Bé, ahir vaig veure algú repiolant un GIF d'un gat bevent llet.
 
 ```
 publish("act2",["dee",3]);
 ```
 
-s: No poden digerir aquella ^merda^! Qui retuitearia *abús animal* com si res?
+s: No poden digerir aquella ^merda^! Qui repiolaria *abús animal* com si res?
 
 ```
 publish("act2",["party_hunter",1]);
@@ -358,7 +358,7 @@ b: Realment, què podem fer que importi de veritat?
 
 `bb({body:"normal", eyes:"sad"})`
 
-b: Contribuir a l'humanitat? Tots els bons treballs cauen com en Osimàndias. L'amor? La mor sempre fa el separa.
+b: Contribuir a l'humanitat? Tots els bons treballs cauen com en Osimàndias. L'amor? La mort sempre el separa.
 
 `bb({eyes:"sad_r"})`
 
@@ -366,7 +366,7 @@ b: Oi, i quanta mort! *Nosaltres* morirem. *Els nostres estimats* moriran.
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: Coi, la Segona Llei de la Termodinàmica diu que fins i tot el nostre *univers* morirà!
+b: Caram, la Segona Llei de la Termodinàmica diu que fins i tot el nostre *univers* morirà!
 
 `bb({eyes:"suspect", body:"normal"})`
 
@@ -374,7 +374,7 @@ b: Que «la mort ens permet apreciar la vida»? És com dir que la esclavitud é
 
 `bb({body:"one_up"})`
 
-b: Que «has de fer-te lloc al món»? Això és el que fan els sectaris i els conspiranoics!
+b: Que «has de donar sentit al món? Això és el que fan els sectaris i els conspiranoics!
 
 `bb({eyes:"shock", body:"two_up"})`
 
