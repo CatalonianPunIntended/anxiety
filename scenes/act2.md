@@ -1009,11 +1009,11 @@ b: Els nadius americans són *persones de veritat*, no uns «salvatges nobles» 
 
 `bb({eyes:"suspect_r"})`
 
-b: Estàs reduïnt a individuus i cultures complexes a frases ximples Això és «racisme benevolent»!
+b: Estàs reduïnt a individuus i cultures complexes a frases ximples. Això és «racisme benevolent»!
 
 `bb({body:"scream_b_1"})`
 
-b: PARA DE SER RACISTA IDIOTA ASIÀTIC
+b: PARA DE SER RACISTA IDIOTA D'ULLS AMETLLATS
 
 ```
 hong({body:"attacked"});
