@@ -939,7 +939,7 @@ h: *M'estimen. Soc bona persona. Soc intel·ligent. Tinc cert atractiu. Soc espe
 
 [Saps que el tema de les afirmacions ha sigut *desmentit*?](#act2d_disproven)
 
-[oh 10 meu no donis crèdit a la gent indígena per històries així](#act2d_racist)
+[oh 10 meu no donis crèdit als indígenes per històries així](#act2d_racist)
 
 # act2d_disproven
 

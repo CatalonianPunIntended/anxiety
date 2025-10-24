@@ -63,7 +63,7 @@ b: Ens farà cargolar-nos en una pilota i plorarem!
 {{/if}}
 
 {{if window.HACK_REPLAY.act1_ending=="flight"}}
-b: Ens farà destruir el teu telèfon per donar-te un atac de pànic!
+b: Ens farà destruir el teu mòbil per donar-te un atac de pànic!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="fight"}}
@@ -430,7 +430,7 @@ h: Espera, a més m'ha enviat l'invitació?
 
 b: Ara...!
 
-[Accepta-la, o ens morirem sols!](#act1c_loner)
+[Accepta-la, o morirem sols!](#act1c_loner)
 
 [Rebutja-la, estarà tot ple de drogues!](#act1c_drugs)
 
@@ -635,7 +635,7 @@ b: ...
 
 `bb({mouth:"smile", eyes:"smile"});`
 
-b: Fem un retwit d'aquesta història!
+b: Fem una repiulada d'aquesta història!
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -666,7 +666,7 @@ h: A prendre per cul, mirem l'Snapchat.
 
 `bb({eyes:"fear"});`
 
-b: És un subtwit! Un subtwit molt, molt difícil de veure!
+b: És una subpiolada! Una subpiolada molt, molt difícil de veure!
 
 `hong({eyes:"annoyed"});`
 
@@ -786,11 +786,11 @@ bb({mouth:"normal", eyes:"normal"});
 [Canviem la nostra resposta! Està massa ple!](#act1e_yes_changetono)
 
 {{if _.subtweet}}
-[Sí, ens estaven subtwitejant definitivament.](#act1e_ignore_subtweet)
+[Sí, ens estaven fent una subpiolada.](#act1e_ignore_subtweet)
 {{/if}}
 
 {{if _.badnews}}
-[Espera, hem retwitejat sense verificar.](#act1e_ignore_factcheck)
+[Espera, hem repiolat sense verificar.](#act1e_ignore_factcheck)
 {{/if}}
 
 {{if (!_.subtweet && !_.badnews)}}
@@ -1590,7 +1590,7 @@ n: ESCULL EL TEU MOVIMENT FINAL
 
 n: *ACABA'LS*
 
-[{LLUITA: Castiga el teu estressant telèfon!}](#act1i_phone) `Game.OVERRIDE_CHOICE_LINE=true`
+[{LLUITA: Castiga el teu estressant mòbil!}](#act1i_phone) `Game.OVERRIDE_CHOICE_LINE=true`
 
 [{FUGIDA: Cargola't com una pilota i plora!}](#act1i_cry) `Game.OVERRIDE_CHOICE_LINE=true`
 
@@ -1598,7 +1598,7 @@ n: *ACABA'LS*
 
 `bb({mouth:"normal", eyes:"narrow"})`
 
-b: El teu telèfon t'estava donant un atac de pànic!
+b: El teu mòbil t'estava donant un atac de pànic!
 
 `bb({eyes:"anger"})`
 
@@ -1610,7 +1610,7 @@ hong({body:"3_defeated2"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Castiga el telèfon! Destrueix-lo! Mata'l!
+b: Castiga el mòbil! Destrueix-lo! Mata'l!
 
 ```
 Game.OVERRIDE_TEXT_SPEED = 2.5;
