@@ -1334,7 +1334,7 @@ h: ...
 
 (...500)
 
-h: n'estic fart d'aquest joc.
+h: m'he afartat d'aquest joc.
 
 (...700)
 

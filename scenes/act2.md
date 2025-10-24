@@ -770,7 +770,7 @@ b: I doncs et MOSSEGARAN i et convertiràs en un TIO SENSE PERSONALITAT i/o una 
 
 `_.a2_attack_3 = "bad";`
 
-_.a2_hoodie_callback = "zombis";
+`_.a2_hoodie_callback = "zombis";`
 
 (#act2d)
 
@@ -790,7 +790,7 @@ b: *Ara podem continuar, el reich està al dia!*
 
 `_.a2_attack_3 = "bad";`
 
-_.a2_hoodie_callback = "en Hitler";
+`_.a2_hoodie_callback = "en Hitler";`
 
 (#act2d)
 
@@ -810,7 +810,7 @@ b: NO PREDIRÍEM LA NOSTRA MORT. SENZILLAMENT PARARÍEM D'EXISTIR PER SEMPRE MÉ
 
 `_.a2_attack_3 = "harm";`
 
-_.a2_hoodie_callback = "el monòxid de carboni";
+`_.a2_hoodie_callback = "el monòxid de carboni";`
 
 (#act2d)
 
@@ -870,7 +870,7 @@ b: AHHH ENS MORIM! ENS MORIM ENS MORIM ENS MORI--
 
 `_.a2_attack_3 = "harm";`
 
-_.a2_hoodie_callback = "ponxos";
+`_.a2_hoodie_callback = "ponxos";`
 
 (#act2d)
 
@@ -900,7 +900,7 @@ attack("20p", _.a2_attack_3);
 
 h: M^ERDAAAA^!
 
-h: M^ERDA^ M^ERDA^ M^ERDÍSSIMA^ *M^ERDA^ *
+h: M^ERDA^ M^ERDA^ M^ERDÍSSIMA^ *M^ERDA^*
 
 `bb({body:"two_up", mouth:"smile", eyes:"happy"});`
 
