@@ -1,10 +1,10 @@
 ## Things to do
 
-* Make the graphics
-* Finish some MDs
-* Check spelling/grammar issues
+* Make the graphics **(DONE)**
+* Finish some MDs **(DONE)**
+* Check spelling/grammar issues **(DONE)**
 * Check bugs
-* Change the pause message (too long)
+* Change the pause message (too long) **(DONE)**
 
 ![](https://ncase.me/anxiety/sharing/banner.png)
 

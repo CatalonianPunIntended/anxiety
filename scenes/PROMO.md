@@ -104,7 +104,7 @@ bb({eyes:"look"});
 
 `hong({mouth:"smile", eyes:"surprise"});`
 
-h: Heh ya that's cute, I--
+h: Ei, és molt maco, l'acabo de repiular, penso q--
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -112,7 +112,7 @@ bb({body:"scream"});
 Game.OVERRIDE_TEXT_SPEED = 1.8;
 ```
 
-b: CATS CAN'T DIGEST MILK AND WE'RE TERRIBLE PEOPLE FOR ENJOYING ANIMAL ABUSE
+b: ELS GATS NO PODEN DIGERIR LLET I SOM GENT TERRIBLE PER DISFRUTAR L'ABÚS ANIMAL
 
 (...200)
 
