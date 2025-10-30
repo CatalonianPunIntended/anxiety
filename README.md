@@ -1,10 +1,13 @@
 ## Things to do
 
 * Make the graphics **(DONE)**
+	* Make the outro graphic
+	* Check the credits pointing fingers and change their position
 * Finish some MDs **(DONE)**
 * Check spelling/grammar issues **(DONE)**
 * Check bugs
 * Change the pause message (too long) **(DONE)**
+* Stretch goal: Make the complementary website
 
 ![](https://ncase.me/anxiety/sharing/banner.png)
 
