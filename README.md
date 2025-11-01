@@ -1,38 +1,30 @@
 ## Things to do
 
-* Make the graphics **(DONE)**
-	* Make the outro graphic **(DONE)**
-	* Check the credits pointing fingers and change their position if necessary **(DONE)**
-* Finish some MDs **(DONE)**
-* Check spelling/grammar issues **(DONE)**
-* Check bugs **(DONE)**
-* Change the pause message (too long) **(DONE)**
 * Stretch goal: Make the complementary website.
 
 ![](https://ncase.me/anxiety/sharing/banner.png)
 
-# [Play the interactive story here!](https://ncase.me/anxiety/)
+# [Juga la història interactiva aquí!](https://ncase.me/anxiety/)
 
-## Public Domain
+## Domini públic
 
-Nicky Case and Monplaisir hereby dedicate all their work for this game to the public domain, under [Creative Commons Zero](https://creativecommons.org/choose/zero/).
-That means: you can remix and reuse *any* of the original art / code / music in this game for *any* purpose, even commercial use!
+Nicky Case i Monplaisir declaren tot el seu treball a aquest joc al domini públic, baix [Creative Commons Zero](https://creativecommons.org/choose/zero/).
+Això significa que: pots remesclar i reutilitzar *qualsevol part* de l’art original / codi / música d’aquest joc per a *qualsevol* propòsit, fins i tot l’ús comercial!
 
-**Q:** Do I have to give attribution?    
-**A:** You're not *legally* required to, but it's highly appreciated! <3
+**P:** He de donar-te atribució?   
+**R:** You're not *legally* required to, but it's highly appreciated! <3
 
-**Q:** Legally speaking, can I claim *I* made this?    
-**A:** Yes, the same way you're legally allowed to claim to have written Mary Shelley's Frankenstein, or claim you have 13 nipples.
+**P:** Parlant legalment, puc afirmar que *jo* he fet això?
+**R:** Sí, de la mateixa forma en què legalment pots afirmar haver escrit Frankenstein de Mary Shelley o afirmar que tens 13 mugrons
 
-**Q:** Can I post this game on other sites?    
-**A:** Maybe. Though it's completely legal copyright-wise, many sites have their own policies against posting other people's public domain/open source work *without* significant modifications. (But if it's your own site, then by all means, please mirror this game!)
+**P:** Puc penjar aquest joc a altres planes web?
+**R:** Potser. Encara que és legal al referent als drets d’autor, moltes planes web tenen les seves polítiques sobre penjar treballs al domini públic/codi obert *sense* modificacions significants. (Si és la teva pròpia plana web, doncs si us plau pengeu aquest joc!)
 
-**Q:** Can I sell a port of this game?    
-**A:** Yes! But to avoid confusion, I recommend labeling your game as "Fan-Made Port", and *link to this statement saying I'm explicitly allowing commercial remixes*. (Example: [a Steam port of another one of my games!](https://store.steampowered.com/app/1103210/We_Become_What_We_Behold_FanMade_Port/)) This is to avoid accusations of theft from folks who weren't aware I always open-source + public-domain my projects.
+**P:** Puc vendre una adaptació d’aquest joc?
+**R:** Sí! Però per evitar confusions, recomano etiquetar el teu joc com a una «Adaptació Fan», i *fica un enllaç a aquest comunicat que diu que explícitament permeto les remescles comercials*. (Exemple: [una adaptació del joc per a Steam d’un altre dels meus jocs! (en anglès)](https://store.steampowered.com/app/1103210/We_Become_What_We_Behold_FanMade_Port/)). Això es fa per evitar acusacions de plagiament de gent que no saben que sempre faig projectes de codi obert i domini públic.
 
-**Q:** Can I turn this game into a dating sim between the human and wolf?   
-**A:** uh
-
+**P:** Puc fer un simulador de cites entre el humà i el llop?
+**R:** eh
 
 ## Full Credits
 
