@@ -38,7 +38,7 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",3]);
 ```
 
-a: Carai, odio les noticies. Només és sensacionalisme i «Clicbait».
+a: Carai, odio les notícies. Només és sensacionalisme i «Clicbait».
 
 ```
 publish("act2",["dum",2]);
@@ -59,7 +59,7 @@ s: Veritat, però només segueixen incentius. El problema *real* són els que fa
 publish("act2",["dee",3]);
 ```
 
-s: Qui faria repiolada d'una terrible història, i fer que tots els seus amics se sentin malament?
+s: Qui faria repiulada d'una terrible història, i fer que tots els seus amics se sentin malament?
 
 ```
 publish("act2",["party_hunter",1]);
@@ -93,7 +93,7 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",3]);
 ```
 
-a: Ja, molt falsa. Qui podria caure a tal cosa i repiolar-ho?
+a: Ja, molt falsa. Qui podria caure a tal cosa i repiular-ho?
 
 ```
 publish("act2",["dum",2]);
@@ -127,7 +127,7 @@ a: Agh, quin fàstic, veritat?
 publish("act2",["dee",3]);
 ```
 
-s: Com anava dient, el Complexe Industrial dels Mems explota als gats.
+s: Com anava dient, el Complex Industrial dels Mems explota als gats.
 
 ```
 publish("act2",["dee",2]);
@@ -157,13 +157,13 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",1]);
 ```
 
-s: Bé, ahir vaig veure algú repiolant un GIF d'un gat bevent llet.
+s: Bé, ahir vaig veure algú repiulant un GIF d'un gat bevent llet.
 
 ```
 publish("act2",["dee",3]);
 ```
 
-s: No poden digerir aquella ^merda^! Qui repiolaria *abús animal* com si res?
+s: No poden digerir aquella ^merda^! Qui repiularia *abús animal* com si res?
 
 ```
 publish("act2",["party_hunter",1]);
@@ -197,7 +197,7 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",1]);
 ```
 
-a: Encara que els dos vau fer match al Tinder?
+a: Encara que els dos vau fer «match» al Tinder?
 
 ```
 publish("act2",["dum",0]);
@@ -249,7 +249,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Ni idea! Potser pensen que tenir un match no pot emplenar el forat al seu cor?
+s: Ni idea! Potser pensen que tenir un «match» no pot emplenar el forat al seu cor?
 
 s: No siguis tan purità! Primer obres el cap, després obres les cames!
 
@@ -271,7 +271,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Ni idea! No estava tan bona, però podria haver estat una bona pesca!
+s: Ni idea! No els vaig veure tan bons, però podrien haver estat una bona pesca!
 
 ```
 publish("act2",["party_hunter",1]);
@@ -279,7 +279,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Fes-les tots teves!™
+a: Fes-te’ls tots teus!™
 
 (#act2-preamble-end)
 
@@ -337,11 +337,11 @@ b: Són més atractius que nosaltres, el que vol dir que si fem l'intent de *mir
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: SÓM UNS PERVERITS.
+b: SOM UNS PERVERTITS.
 
 `bb({body:"normal"})`
 
-b: Sóm uns pervertits temibles, malèfics, molt i molt do--
+b: Som uns pervertits temibles, malèfics, molt i molt do--
 
 ```
 _.a2_first_danger = 'perv';
@@ -358,7 +358,7 @@ b: Realment, què podem fer que importi de veritat?
 
 `bb({body:"normal", eyes:"sad"})`
 
-b: Contribuir a l'humanitat? Tots els bons treballs cauen com en Osimàndias. L'amor? La mort sempre el separa.
+b: Contribuir a la humanitat? Tots els bons treballs cauen com en Osimàndias. L'amor? La mort sempre el separa.
 
 `bb({eyes:"sad_r"})`
 
@@ -370,7 +370,7 @@ b: Caram, la Segona Llei de la Termodinàmica diu que fins i tot el nostre *univ
 
 `bb({eyes:"suspect", body:"normal"})`
 
-b: Que «la mort ens permet apreciar la vida»? És com dir que la esclavitud és bona perquè ens permet apreciar la llibertat!
+b: Que «la mort ens permet apreciar la vida»? És com dir que l'esclavitud és bona perquè ens permet apreciar la llibertat!
 
 `bb({body:"one_up"})`
 
@@ -378,7 +378,7 @@ b: Que «has de donar sentit al món? Això és el que fan els sectaris i els co
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: La vida no té cap significat, ni la mort, fins i tot *significat* no té significat! Què se supossa que ha de fer un ànima mort--
+b: La vida no té cap significat, ni la mort, fins i tot *significat* no té significat! Què se suposa que ha de fer una ànima mort--
 
 ```
 _.a2_first_danger = 'meaning';
@@ -443,11 +443,11 @@ b: HE D'ADVERTIR-VOS DE...
 
 b: LES EMOCIONS SÓN CONTAGIOSES! SI NO SURTS INFECTARÀS A TOTHOM AMB ELS TEUS PROBLEMES MENTALS!
 
-b: Crearàs un brot del SINDROME DE L'AIXAFAGUITARRES TRIST
+b: Crearàs un brot de la SÍNDROME DE L'AIXAFAGUITARRES TRIST
 
 `bb({eyes:"suspect", body:"normal", mouth:"normal"})`
 
-b: Hem de sortir d'aquí i fer quarentena permanent a una habitació petitona amb Netflix i menjar a domicili!
+b: Hem de sortir d'aquí i fer quarantena permanent a una habitació petitona amb Netflix i menjar a domicili!
 
 ```
 _.a2_second_danger = 'netflix';
@@ -504,11 +504,11 @@ _.a2_hoodie_callback = "la llei";
 
 `bb({body:"two_up", mouth:"normal", eyes:"shock"})`
 
-b: Realment, fins i tot si trobes un propòsit digne a la vida, *encara pots* fúmer tot!
+b: Realment, fins i tot si trobes un propòsit digne a la vida, *encara ho pots* fúmer tot!
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: Alfred Nobel cercava la pau mundial i l'interculturalitat. Això el va impolsar a simplificar el procès de viatjar.
+b: Alfred Nobel cercava la pau mundial i la interculturalitat. Això el va impulsar a simplificar el procés de viatjar.
 
 `bb({eyes:"normal_r"})`
 
@@ -540,7 +540,7 @@ b: Ara que ho penso, saps què és pitjor que ningú t'estimi? Que *tothom* t'es
 
 `bb({body:"one_up", eyes:"suspect", mouth:"normal"})`
 
-b: Un exemple seria convertir-te en un *d'aquests* fiesters busca-plaers.
+b: Un exemple seria convertir-te en un *d'aquests* festers busca-plaers.
 
 `bb({body:"normal", mouth:"small"})`
 
@@ -548,7 +548,7 @@ b: Una vida buida amb amics buits que només coneixen la teva versió buida!
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
-b: Humà, hem de escapar d'aquests zombis del plaer abans de que ens converteixin!
+b: Humà, hem d'escapar d'aquests zombis del plaer abans que ens converteixin!
 
 ```
 _.a2_second_danger = 'zombies';
@@ -596,7 +596,7 @@ b: Penses que estas segur perquè l'has tret les piles al detector de monòxid d
 
 `bb({eyes:"suspect_r"})`
 
-b: No sentiras pas el verí! T'adormiras i després---
+b: No sentiras pas el verí! T'adormiràs i després---
 
 `bb({body:"scream_c_1"})`
 
@@ -683,7 +683,7 @@ b: Ens hem de mudar a un territori a Yukon, Canadà, i rebre el menjar per drons
 
 `bb({body:"two_up", mouth:"normal"})`
 
-b: I encara haurien d'estirilitzar el dron per treure els GERMES D'AIXAFAGUITARRES TRISTOS
+b: I encara haurien d'esterilitzar el dron per treure els GERMENS D'AIXAFAGUITARRES TRISTOS
 
 `_.a2_attack_3 = "alone";`
 
@@ -716,9 +716,9 @@ sfx("gravel");
 
 (...501)
 
-b: El GRAN PERVERTIT FASTIGÓS I PUDENT serà sentenciat a 72 hores a un d'aquells dispositius de humiliació pública medieval
+b: El GRAN PERVERTIT FASTIGÓS I PUDENT serà sentenciat a 72 hores a un d'aquells dispositius d'humiliació pública medieval
 
-b: a menys que secretament els hi *agradi* aquesta mena de coses
+b: a menys que secretament els *agradi* aquesta mena de coses
 
 `bb({body:"scream_a_1"})`
 
@@ -758,7 +758,7 @@ b: PUM, FAS QUE EL NOSTRE SISTEMA D'ASSISTÈNCIA MÈDICA CAIGUI I MILIONS MOREN
 
 `bb({body:"normal", mouth:"small", eyes:"angry"})`
 
-b: Aquests zombis del plaer es balancejaran cap a tu susurrant.
+b: Aquests zombis del plaer es balancejaran cap a tu murmurant.
 
 `bb({body:"normal", mouth:"normal", eyes:"shock"})`
 
@@ -766,7 +766,7 @@ b: «LIIIIIKES». «LIIIIIIIIIIKES».
 
 `bb({body:"scream_a_1"})`
 
-b: I doncs et MOSSEGARAN i et convertiràs en un TIO SENSE PERSONALITAT i/o una GUARRA SENSE CAP!
+b: I doncs et MOSSEGARAN i et convertiràs en un PAIO SENSE PERSONALITAT o una MARRANA SENSE CAP!
 
 `_.a2_attack_3 = "bad";`
 
@@ -782,11 +782,11 @@ b: ELS NAZIS FAN EL PAS DE L'OCA ALS CARRERS ARA MATEIX
 
 `bb({body:"one_up", mouth:"smile", eyes:"happy"})`
 
-b: Dient, *què bé que la "gent bona" hagi passat l'estona amb coses com la "relaxació" i el "benestar"!*
+b: Dient, *que bé que la "gent bona" hagi passat l'estona amb coses com la "relaxació" i el "benestar"!*
 
 `bb({body:"point", mouth:"smile", eyes:"happy_r"})`
 
-b: *Ara podem continuar, el reich està al dia!*
+b: *Ara podem continuar, el Reich està al dia!*
 
 `_.a2_attack_3 = "bad";`
 
@@ -802,11 +802,11 @@ b: Ara que ho penso, tenim constància de si aquest edifici *té* un detector de
 
 `bb({body:"two_up", mouth:"small", eyes:"normal"})`
 
-b: I si estem sent enverinats *ARA MATEIX*?
+b: I si som enverinats *ARA MATEIX*?
 
 `bb({body:"scream_a_1"})`
 
-b: NO PREDIRÍEM LA NOSTRA MORT. SENZILLAMENT PARARÍEM D'EXISTIR PER SEMPRE MÉS I MÉ--
+b: NO PREDIRÍEM LA NOSTRA MORT. SENZILLAMENT, PARARÍEM D'EXISTIR PER SEMPRE MÉS I MÉ--
 
 `_.a2_attack_3 = "harm";`
 
@@ -818,7 +818,7 @@ b: NO PREDIRÍEM LA NOSTRA MORT. SENZILLAMENT PARARÍEM D'EXISTIR PER SEMPRE MÉ
 
 `bb({body:"normal", mouth:"normal", eyes:"sad"})`
 
-b: I si sóm *fonamentalment incapaços* de ser estimats o d'estimar a un altre?
+b: I si som *fonamentalment incapaços* de ser estimats o d'estimar a un altre?
 
 `bb({body:"normal", mouth:"small", eyes:"sad_r"})`
 
@@ -840,11 +840,11 @@ b: I si estem *fonamentalment podrits*?
 
 `bb({body:"one_up", eyes:"sad"})`
 
-b: Altres estan guiats a fer bones obres, pero si les fem, nomès són per culpabilitat o vergonya.
+b: Altres estan guiats a fer bones obres, però si les fem, només són per culpabilitat o vergonya.
 
 `bb({body:"normal", mouth:"small", eyes:"sad_r"})`
 
-b: I si és la nostra naturalessa fer mal als altres? I si no podem ser res *però* una molèstia a la gent prop nostre?
+b: I si és la nostra naturalesa fer mal als altres? I si no podem ser res *però* una molèstia a la gent prop nostre?
 
 `bb({body:"scream_a_1"})`
 
@@ -904,11 +904,11 @@ h: M^ERDA^ M^ERDA^ M^ERDÍSSIMA^ *M^ERDA^*
 
 `bb({body:"two_up", mouth:"smile", eyes:"happy"});`
 
-b: Iupi, humà! Què bé que em puguis sentir!
+b: Iupi, humà! Que bé que em puguis sentir!
 
 `bb({body:"normal", mouth:"small", eyes:"sad"})`
 
-b: Perquè m'ignoraves?
+b: Per què m'ignoraves?
 
 `hong({body:"facepalm"})`
 
@@ -918,7 +918,7 @@ h: Santíssima ^hòstia^, ets idiota.
 
 h: Et saps aquella història dels nadius americans?
 
-h: «Hi ha dos llops dins teu, un és la fe, l'altre és la desesperança. Quin guanya? El que donis de menjar».
+h: «Hi ha dos llops dins teu, un és la fe, l'altre és la desesperança. Quin guanya? El que donis menjar».
 
 ```
 hong({body:"facepalm_3"});
@@ -929,13 +929,13 @@ h: Volia que *passessis fam*, ^imbècil^ sadista!
 
 `hong({body:"smile", mouth:"smile"})`
 
-h: Oblida-ho, provarè amb afirmacions positives.
+h: Oblida-ho, provaré amb afirmacions positives.
 
 h: *M'estimen. Soc bona persona. Soc intel·ligent. Tinc cert atractiu. Soc especial.*
 
 `bb({eyes:"suspect"});`
 
-[Mare meva, què narcissista!](#act2d_narcissist)
+[Mare meva, que narcisista!](#act2d_narcissist)
 
 [Saps que el tema de les afirmacions ha sigut *desmentit*?](#act2d_disproven)
 
@@ -949,11 +949,11 @@ b: De fet, poden *fer més mal* a la gent amb mala autoestima!
 
 `bb({body:"one_up", mouth:"small", eyes:"normal"})`
 
-b: Era un estudi molt ben dissenyat – un experiment al atzar i controlat, l'experimentador no sabia qui era a qual grup.
+b: Era un estudi molt ben dissenyat – un experiment a l'atzar i controlat, l'experimentador no sabia qui era al qual grup.
 
 `bb({body:"two_up", mouth:"small", eyes:"normal_r"})`
 
-b: Els resultats van demostrar que si ja tenies una baixa autoestima, repetir-te afirmacions positives et feien sentir *pitjor* que no pas callar-te!
+b: Els resultats van demostrar que si ja tenies una baixa autoestima, repetir-te afirmacions positives et feien sentir *pitjor* que no pas callar!
 
 `bb({body:"point", mouth:"normal", eyes:"closed"})`
 
@@ -977,11 +977,11 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: Has de veure els teus errors amb humiltat per crèixer com a persona!
+b: Has de veure els teus errors amb humitat per créixer com a persona!
 
 `bb({body:"two_up", eyes:"suspect"})`
 
-b: No pots posar ambientador a una habitació mugrossa! Cobrir els teus errors et fa pitjor a la llarga.
+b: No pots posar ambientador a una habitació mugrosa! Cobrir els teus errors et fa pitjor a la llarga.
 
 `bb({body:"chest", mouth:"smile", eyes:"closed"})`
 
@@ -1005,11 +1005,11 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"})`
 
-b: Els nadius americans són *persones de veritat*, no uns «salvatges nobles» que puguis nombrar per fer que els teus consells de bescuit xinès siguin més *exòtics*.
+b: Els nadius americans són *persones de veritat*, no uns «salvatges nobles» que puguis anomenar per fer que els teus consells de bescuit xinès siguin més *exòtics*.
 
 `bb({eyes:"suspect_r"})`
 
-b: Estàs reduïnt a individuus i cultures complexes a frases ximples. Això és «racisme benevolent»!
+b: Estàs reduint a individus i cultures complexes a frases ximples. Això és «racisme benevolent»!
 
 `bb({body:"scream_b_1"})`
 
@@ -1055,7 +1055,7 @@ b: ...
 
 [Soc un sentiment. Els sentiments són vàlids.](#act2e_valid)
 
-[Humà, els *dos* sóm «només químics».](#act2e_rational)
+[Humà, els *dos* som «només químics».](#act2e_rational)
 
 # act2e_hurtful
 
@@ -1086,7 +1086,7 @@ b: Les teves motivacions són dopamina, els teus plaers són serotonina.
 
 `bb({body:"one_up"});`
 
-b: Les teves memòries són pesos sinàptics, el teu seny són senyals elèctriques que poden fallar.
+b: Les teves memòries són pesos sinàptics, el teu seny són senyals elèctrics que poden fallar.
 
 `bb({eyes:"normal", body:"normal"});`
 
@@ -1094,7 +1094,7 @@ b: Així que si sent «només uns químics» *soc* irracional... doncs tu *tamb�
 
 `bb({body:"two_up", eyes:"shock"});`
 
-b: I si els *dos* sóm irracionals, doncs *mai* sabrem com arribar a la plenitud i la feliçitat!
+b: I si els *dos* som irracionals, doncs *mai* sabrem com arribar a la plenitud i la felicitat!
 
 `bb({body:"scream_a_1"})`
 
@@ -1127,7 +1127,7 @@ b: Per tots els céls, «ells» ens han mentit sempre!
 
 `bb({body:"scream_a_1"})`
 
-b: «ELLS» ENS DIUEN CONTRADICCIONS PER FER-NOS DEPENENTS DEL COMPLEXE INDUSTRIAL D'AUTOAJUDA
+b: «ELLS» ENS DIUEN CONTRADICCIONS PER FER-NOS DEPENDENTS DEL COMPLEX INDUSTRIAL D'AUTOAJUDA
 
 ```
 music(null);
@@ -1152,7 +1152,7 @@ h: No et puc calmar. No et puc ignorar. No puc lluitar.
 
 `bb({eyes:"suspect"});`
 
-h: Sense importar el que faci, no em puc llibrar de tu.
+h: Sense importar el que faci, no em puc deslliurar de tu.
 
 `bb({body:"cry_1"});`
 
@@ -1166,19 +1166,19 @@ b: Com creus que em sento *jo*, humà?!
 
 b: Faig quant puig per ser el teu gos guardià, però no pares de veure'm com un Llop Malvat!
 
-b: I doncs *m'esforço més* en apartar-te del perill! *De més* perills! *D'altres* perills!
+b: I doncs *m'esforço més* a apartar-te del perill! *De més* perills! *D'altres* perills!
 
 `bb({eyes:"cry_2"})`
 
-b: Però sense importar quant m'esforci en protegir-te, *encara* creus que soc el teu enemic!
+b: Però sense importar quan m'esforci a protegir-te, *encara* creus que soc el teu enemic!
 
 `bb({body:"cry_5"});`
 
-b: Què fai malament?!
+b: Què faig malament?!
 
 `bb({body:"cry_2"});`
 
-b: *Sé* que apesto al meu treball. Però *faig l'intent*, humà!
+b: *Sé* que se'm dona fatal el meu treball. Però *faig l'intent*, humà!
 
 `bb({body:"cry_3"});`
 
@@ -1218,7 +1218,7 @@ publish("act2",["party_hunter",2]);
 Game.WORDS_HEIGHT_BOTTOM = 230;
 ```
 
-r: Sembla que estàs tenint una lluita interna, nano.
+r: Sembla que tens una lluita interna, nano.
 
 ```
 publish("act2",["party_hunter",3]);
@@ -1256,7 +1256,7 @@ publish("act2",["party_hong",18]);
 sfx("squeak");
 ```
 
-r: Ei. No estàs sol, nano. L'ansietat és súper normal.
+r: Ei. No estàs sol, nano. L'ansietat és supernormal.
 
 ```
 publish("act2",["party_hunter",5]);
@@ -1264,11 +1264,11 @@ publish("act2",["party_hong",19]);
 ```
 
 {{if _.act1_ending=="fight"}}
-r: Coi, ahir mateix vaig sentir a algú al campus tenir un atac nerviós i trencar el seu móbil!
+r: Coi, ahir mateix vaig sentir a algú al campus tenir un atac nerviós i trencar el seu mòbil!
 {{/if}}
 
 {{if _.act1_ending=="flight"}}
-r: Coi, ahir mateix vaig sentir a algú plorant i cargolant-se en públic!
+r: Coi, ahir mateix vaig sentir a algú plorant i caragolant-se en públic!
 {{/if}}
 
 ```
@@ -1332,7 +1332,7 @@ publish("act2",["party_hunter",12]);
 publish("act2",["party_hong",24]);
 ```
 
-r: Bottoms up, ^bee-yatch^!
+r: El cul cap a dalt, ^puto geni^!
 
 ```
 hong({body:"hold"});
@@ -1384,17 +1384,17 @@ hong({body:"forward", mouth:"forward"});
 bb({body:"frazzled", mouth:"frazzled", eyes:"frazzled"});
 ```
 
-h: Mmm, quin gin tónic tan exquisit!
+h: Mmm, quin gintònic tan exquisit!
 
-h: Un cos amb un taste de «ignora-ho tot» amb un lleu regust a «mai més senteix res»!
+h: Un cos amb un tast d'«ignorar-ho tot» amb un lleu regust de «mai més sentir res»!
 
 b: Això és dolent, humà. Això és molt, molt dolent.
 
-[*Així* és com començen les adiccions.](#act2h_opt1) `Game.OVERRIDE_CHOICE_LINE=true`
+[*Així* és com comencen les addiccions.](#act2h_opt1) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[*Sabia* que el hoste tenia un problema!](#act2h_opt3) `Game.OVERRIDE_CHOICE_LINE=true`
+[*Sabia* que l'hoste tenia un problema!](#act2h_opt3) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[A més, podrien haver drogar-lo!](#act2h_opt2) `Game.OVERRIDE_CHOICE_LINE=true`
+[A més, el podrien haver drogat!](#act2h_opt2) `Game.OVERRIDE_CHOICE_LINE=true`
 
 
 # act2h_opt1
@@ -1405,7 +1405,7 @@ b: *Així* és com--
 
 # act2h_opt2
 
-b: A més, podrie--
+b: A més, el podrie--
 
 (#act2h)
 
@@ -1430,7 +1430,7 @@ hong({body:"back", mouth:"back"});
 bb({body:"panicked", mouth:"panicked", eyes:"panicked"});
 ```
 
-h: Sabrós, *i a sobre* més barat que la teràpia!
+h: Saborós, *i a sobre* més barat que la teràpia!
 
 b: HUMÀ PARA JA
 
@@ -1440,7 +1440,7 @@ h: I què faràs *tu*, ^imbècil^?
 
 b: Ho sento molt, humà.
 
-b: Farè servir el meu ATAC ESPECIAL
+b: Faré servir el meu ATAC ESPECIAL
 
 ```
 bb({body:"special_a"});
@@ -1523,17 +1523,17 @@ h: PODIA *SENTIR* ELS OSSOS CRUIXINT. PODIA *TASTAR* LA SANG A L'AIRE.
 
 b: Ho sento, humà.
 
-n: *ACABAL'LS*
+n: *ACABA'LS*
 
-[{LLUITA: Dona un cop al hoste.}](#act2j_fight) `Game.OVERRIDE_CHOICE_LINE=true`
+[{LLUITA: Dona un cop a l'hoste.}](#act2j_fight) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[{FUGIDA: Anem-nos d'aquí.}](#act2j_flight) `Game.OVERRIDE_CHOICE_LINE=true`
+[{FUGIDA: Anem-nos-en d'aquí.}](#act2j_flight) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act2j_fight
 
 `bb({ eyes:"angry" });`
 
-b: Aquell psicópata volia aprofitar-se de tu.
+b: Aquell psicòpata volia aprofitar-se de tu.
 
 b: Et volien corrompre, torbar-te com estan ells de torbats!
 
@@ -1555,7 +1555,7 @@ b: *Sabia* que aquests () estaven molt torbats. Calmen els seus mals amb coses t
 
 `bb({ body:"yell_1" });`
 
-b: I t'enganyen perquè facis el mateix! T'estan corrompint! Hem de sortir!
+b: I t'enganyen perquè facis el mateix! T'estan corrompent! Hem de sortir!
 
 `bb({ body:"final_1" });`
 
@@ -1630,18 +1630,18 @@ publish("act2",["dum",5]);
 music('party1', {volume:0.6, fade:6});
 ```
 
-r: ets un *masoca*.
+r: ets *masoquista*.
 
-r: M'agrada això. Veniu a la festa el cap de setmana que vé, monada.
+r: M'agrada això. Veniu a la festa el cap de setmana que ve, monada.
 
 ```
 publish("act2",["party_hunter",19]);
 publish("act2",["party_hong",36]);
 ```
 
-h2: d'acord adéu, ciao, adiós, au revoir
+h2: d'acord adéu, goodbye, adiós, au revoir
 
-r: Potser l'animalet ha guanyat avui, però si tornes, et farè un breuatge fins i tot més intens!
+r: Potser l'animalet ha guanyat avui, però si tornes, et faré un beuratge fins i tot més intens!
 
 h2: sayōnara, auf wiedersehen, zài jiàn, shalom
 
@@ -1653,7 +1653,7 @@ r: Tu i jo, nano, ensenyem a la bèstia qui mana!
 
 `publish("act2",["party_hong",36]);`
 
-h: d'acord perdó m'he d'anar
+h: d'acord perdó me n'he d'anar
 
 `publish("act2",["party_hunter",16]);`
 
@@ -1665,7 +1665,7 @@ h2: no no, només, eh, em vaig a fer la marató de tv3. he de córrer.
 
 `publish("act2",["party_hunter",19]);`
 
-r: Veniu a la meva festa el cap de setmana que vé. Et farè alguna cosa més intensa per tu.
+r: Veniu a la meva festa el cap de setmana que ve. Et faré alguna cosa més intensa per tu.
 
 h2: d'acord gràcies he de córrer córrer córrer córrer córrer
 
@@ -1698,7 +1698,7 @@ b: Humà! Estàs bé?!
 publish("act2", ["act2_end","next"]);
 ```
 
-b: Ai, per tan *poquet*. Realment podriem haver--
+b: Ai, per tan *poquet*. Realment podríem haver-hi--
 
 ```
 Game.clearText();
