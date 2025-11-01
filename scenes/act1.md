@@ -1,4 +1,4 @@
-# act1
+ # act1
 
 ```
 SceneSetup.act1();
@@ -59,15 +59,15 @@ hong({body:"0_sammich"});
 ```
 
 {{if window.HACK_REPLAY.act1_ending=="fight"}}
-b: Ens farà cargolar-nos en una pilota i plorarem!
+b: Ens farà caragolar en una pilota i plorarem!
 {{/if}}
 
 {{if window.HACK_REPLAY.act1_ending=="flight"}}
-b: Ens farà destruir el teu mòbil per donar-te un atac de pànic!
+b: Ens farà destruir el teu mòbil perquè t’agafi un atac de pànic!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="fight"}}
-b: Ens farà *NO* donar un cop de puny al hoste de la festa!
+b: Ens farà *NO* donar un cop de puny a l'hoste de la festa!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="flight"}}
@@ -75,7 +75,7 @@ b: Ens farà donar un cop de puny al Simpàtic Hoste Antivilà!
 {{/if}}
 
 {{if window.HACK_REPLAY.a3_ending=="jump"}}
-h: D'acord, al menys potser no saltem del sostre aques--
+h: D'acord, almenys potser no saltem del sostre aques--
 {{/if}}
 
 {{if window.HACK_REPLAY.a3_ending=="walkaway"}}
@@ -84,7 +84,7 @@ b: ENS FARÀ SALTAR DEL SOSTRE.
 
 `bb({body:"fear"});`
 
-b: TOTES AQUESTES NOVES I TERRIBLES COSES ENS PASARAN, I DESPRÉS--
+b: TOTES AQUESTES NOVES I TERRIBLES COSES ENS PASSARAN, I DESPRÉS--
 
 (#act1_replay_end)
 
@@ -116,7 +116,7 @@ h: Què dius de distribucions?
 
 `bb({eyes:"normal"});`
 
-b: L'arc de la història parlava de com pots *DECIDIR* per construir una colaboració sana amb les teves pors,
+b: L'arc de la història parlava de com pots *DECIDIR* per construir una col·laboració sana amb les teves pors,
 
 `bb({eyes:"normal_right"});`
 
@@ -124,7 +124,7 @@ b: Però rejugar el joc et donarà la mateixa història, implicant que les teves
 
 `bb({eyes:"narrow_eyebrow"});`
 
-b: Doncs mostrarà una contradicció entre el missatges del joc i les seves mecàniques,
+b: Doncs mostrarà una contradicció entre els missatges del joc i les seves mecàniques,
 
 `bb({eyes:"fear"});`
 
@@ -170,7 +170,7 @@ h: Vinga tornem als nostres papers.
 Game.clearText();
 ```
 
-n4: (DEIXA QUE LA _TEVA_ ANSIETAT BLA BLA BLA ESCULL EL QUE S'APROXIMI MÉS A LES _TEVES_ PORS BLA BLA BLA JA SAPS COM VA)
+n4: (DEIXA QUE LA _TEVA_ ANSIETAT BLA, BLA, BLA, ESCULL EL QUE S'APROXIMI MÉS A LES _TEVES_ PORS BLA, BLA, BLA, JA SAPS COM VA)
 
 ```
 sfx("squeak");
@@ -194,7 +194,7 @@ n: HAS DE PROTEGIR AL TEU HUMÀ DEL *PERILL*
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
-n: DE FET, AQUELL SÀNDVITX DE NOUS EL POSA EN *PERILL* ARA MATEIX
+n: DE FET, AQUELL SANDVITX DE NOUS EL POSA EN *PERILL* ARA MATEIX
 
 n: RÀPID, AVISEU-LO!
 
@@ -216,7 +216,7 @@ n4: (DEIXA QUE LA _TEVA_ ANSIETAT VINGUI A JUGAR! ESCULL EL QUE S'APROXIMI MÉS 
 
 [Estem menjant sols! Un altre cop!](#act1a_alone) `bb({body:"squeeze_talk"})`
 
-[Menjant no sóm productius!](#act1a_productive) `bb({body:"squeeze_talk"})`
+[Menjant no som productius!](#act1a_productive) `bb({body:"squeeze_talk"})`
 
 [Aquest pa blanc és nociu per nosaltres!](#act1a_bread) `bb({body:"squeeze_talk"})`
 
@@ -237,7 +237,7 @@ b: (Holt-Lunstad 2010, PLoS Medicine)
 
 `hong({eyes:"0_annoyed"})`
 
-h: Ehm, gràcies per citar les teves fonts però--
+h: Em, gràcies per citar les teves fonts però--
 
 `Game.OVERRIDE_TEXT_SPEED = 2;`
 
@@ -275,7 +275,7 @@ b: Treu el portàtil i fes alguna cosa ara mateix!
 
 `hong({eyes:"0_annoyed"})`
 
-h: Ehm, no m'agradaria tenir molles al tecla--
+h: Erm, no m'agradaria tenir molles al tecla--
 
 ```
 bb({mouth:"normal", eyes:"fear"});
@@ -412,7 +412,7 @@ n: RONDA U: *LLUITA!*
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"});`
 
-h: Huh. Les recomanacions de Facebook diuen que hi ha una festa aquest cap de setmana.
+h: Oh. Les recomanacions de Facebook diuen que hi ha una festa aquest cap de setmana.
 
 `bb({eyes:"uncertain"});`
 
@@ -424,7 +424,7 @@ b: Quina mena de buit interior intenten emplenar? Han de tenir un problema ben g
 
 `hong({eyes:"surprise"});`
 
-h: Espera, a més m'ha enviat l'invitació?
+h: Espera, a més m'ha enviat la invitació?
 
 `bb({eyes:"fear", mouth:"normal"});`
 
@@ -447,7 +447,7 @@ b: Quinze cigarretes al dia, humà! Quinze!
 {{/if}}
 
 {{if !_.fifteencigs}}
-b: I ningú anirà al nostre funeral, tiraran les nostres restes al oceà, ens menjarà una balena,
+b: I ningú anirà al nostre funeral, tiraran les nostres restes a l'oceà, ens menjarà una balena,
 {{/if}}
 
 {{if !_.fifteencigs}}
@@ -468,7 +468,7 @@ attack("18p", "alone");
 `bb({eyes:"normal"});`
 
 {{if !_.fifteencigs}}
-b: Així que hauriem d'anar a la festa!
+b: Així que hauríem d'anar a la festa!
 {{/if}}
 
 {{if _.parasite}}
@@ -481,9 +481,9 @@ b: Sempre que no ens donin PA BLANC
 
 `hong({mouth:"anger", eyes:"anger"});`
 
-h: MARE MEVA. Si et callaràs, vinga.
+h: MARE MEVA. Si callaràs, vinga.
 
-h: Dirè que sí.
+h: Diré que sí.
 
 {{if _.whalepoop}}
 b: Caca de balena, humà! Caca de balena!
@@ -506,7 +506,7 @@ b: o pitjor encara... PA BLANC
 {{/if}}
 
 {{if _.whitebread}}
-b: Ens donarà una sobredosi de metanfetamina i pa blanc que no seran capaços de ficar el nostre cos gras al crematori!
+b: Ens donarà una sobredosi de metamfetamina i pa blanc que no seran capaços de ficar el nostre cos gras al crematori!
 {{/if}}
 
 {{if !_.whitebread}}
@@ -526,9 +526,9 @@ b: A més, no podem anar de festa, hem de treballar o serem un terrible paràsit
 
 `hong({mouth:"anger", eyes:"anger"});`
 
-h: MARE MEVA. Si et callaràs, vinga.
+h: MARE MEVA. Si callaràs, vinga.
 
-h: Dirè que no.
+h: Diré que no.
 
 `_.partyinvite="no"`
 
@@ -545,11 +545,11 @@ b: Tot el que fem és plorar a una cantonada sobre com la solitud és tan mortal
 {{/if}}
 
 {{if _.parasite}}
-b: Tot el que fem a les festes és preocupar-nos sobre com hauriem de ser productius.
+b: Tot el que fem a les festes és preocupar-nos per com hauríem de ser productius.
 {{/if}}
 
 {{if _.whitebread}}
-b: Tot el que fem es preocupar-nos sobre com les opcions de menjar no salutable ens poden matar.
+b: Tot el que fem és preocupar-nos per com les opcions de menjar no saludable ens poden matar.
 {{/if}}
 
 ```
@@ -557,7 +557,7 @@ bb({mouth:"normal", eyes:"normal"});
 hong({mouth:"neutral", eyes:"lookaway"});
 ```
 
-h: ja em pregunto el per què.
+h: ja em pregunto el perquè.
 
 `hong({eyes:"neutral"});`
 
@@ -580,9 +580,9 @@ attack("18p", "bad");
 
 `hong({mouth:"anger", eyes:"anger"});`
 
-h: Agh. Si et callaràs, vinga.
+h: Agh. Si callaràs, vinga.
 
-h: Ignorarè la invitació.
+h: Ignoraré la invitació.
 
 `_.partyinvite="ignore"`
 
@@ -603,7 +603,7 @@ h: Què hi ha de nou al Twitter?
 
 `bb({eyes:"look"});`
 
-[Oh no, fixa't en aquella noticia terrible!](#act1d_news)
+[Oh no, fixa't en aquella notícia terrible!](#act1d_news)
 
 [Oh no, una indirecta cap a *nosaltres*?](#act1d_subtweet)
 
@@ -624,7 +624,7 @@ bb({eyes:"pained2"});
 hong({mouth:"sad", eyes:"sad"});
 ```
 
-b: Sembla que tot està acabant, que tot està morint i que tots estem comdenats i que no podem fer res en contra.
+b: Sembla que tot està acabant, que tot està morint i que tots estem condemnats i que no podem fer res en contra.
 
 ```
 Game.OVERRIDE_TEXT_SPEED = 0.5;
@@ -666,7 +666,7 @@ h: A prendre per cul, mirem l'Snapchat.
 
 `bb({eyes:"fear"});`
 
-b: És una subpiolada! Una subpiolada molt, molt difícil de veure!
+b: És una subpiulada! Una subpiulada molt, molt difícil de veure!
 
 `hong({eyes:"annoyed"});`
 
@@ -676,7 +676,7 @@ h: Potser no ho és?
 
 b: però i si tothom parla darrere nostre
 
-h: No ho esta--
+h: No ho està--
 
 `bb({body:"fear", eyes:"fear", mouth:"normal"});`
 
@@ -735,7 +735,7 @@ bb({body:"scream"});
 Game.OVERRIDE_TEXT_SPEED = 1.8;
 ```
 
-b: ELS GATS NO PODEN DIGERIR LLET I SOM GENT TERRIBLE PER DISFRUTAR L'ABÚS ANIMAL
+b: ELS GATS NO PODEN DIGERIR LLET I SOM GENT TERRIBLE PER GAUDIR L'ABÚS ANIMAL
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"fear"});
@@ -774,7 +774,7 @@ h: Ah, fotos d'ahir a la nit. *Així* són les festes setmanals.
 
 h: Buf, sembla massa ocupat per a la meva ansietat.
 
-h: Potser no hauria haver acceptat la invitació?
+h: Potser no hauria d'haver acceptat la invitació?
 
 ```
 hong({mouth:"neutral", eyes:"neutral"});
@@ -786,11 +786,11 @@ bb({mouth:"normal", eyes:"normal"});
 [Canviem la nostra resposta! Està massa ple!](#act1e_yes_changetono)
 
 {{if _.subtweet}}
-[Sí, ens estaven fent una subpiolada.](#act1e_ignore_subtweet)
+[Sí, ens estaven fent una subpiulada.](#act1e_ignore_subtweet)
 {{/if}}
 
 {{if _.badnews}}
-[Espera, hem repiolat sense verificar.](#act1e_ignore_factcheck)
+[Espera, hem repiulat sense verificar.](#act1e_ignore_factcheck)
 {{/if}}
 
 {{if (!_.subtweet && !_.badnews)}}
@@ -804,7 +804,7 @@ bb({eyes:"anger"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Comptaven amb que nosaltres anèssim i ara els decebem? Vols morir sola?!
+b: Comptaven que nosaltres anéssim i ara els decebem? Vols morir sol?!
 
 {{if _.fifteencigs}}
 b: QUINZE. CIGARRETES.
@@ -826,7 +826,7 @@ hong({mouth:"anger", eyes:"anger"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-h: Calla calla, ho deixo igual!
+h: Calla, calla, ho deixo igual!
 
 (#act1f)
 
@@ -876,7 +876,7 @@ hong({eyes:"anger", mouth:"anger"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-h: Calla calla, ja canviaré la resposta a no! Déu meu!
+h: Calla, calla, ja canviaré la resposta a no! Déu meu!
 
 (#act1f)
 
@@ -912,7 +912,7 @@ h: Potser era millor acceptar la invitació?
 
 b: Tothom ens estava esperant!
 
-b: ...només perquè nosaltres els deixèssim sols amb una festa divertida sense cretins {{if _.whitebread}}menjadors de pa blanc{{/if}} com nosaltre--
+b: ...només perquè nosaltres els deixéssim sols amb una festa divertida sense cretins {{if _.whitebread}}menjadors de pa blanc{{/if}} com nosaltre--
 
 
 ```
@@ -928,7 +928,7 @@ hong({mouth:"anger", eyes:"anger"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-h: Calla calla, ho deixaré tal qual!
+h: Calla, calla, ho deixaré tal qual!
 
 (#act1f)
 
@@ -958,7 +958,7 @@ hong({mouth:"anger", eyes:"anger"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-h: Calla calla, canviaré la meva resposta a sí! Déu meu!
+h: Calla, calla, canviaré la meva resposta a sí! Déu meu!
 
 (#act1f)
 
@@ -1002,14 +1002,14 @@ bb({eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Estem transmetent desinformació! Estem destruïnt la nostra credibilitat amb només un clic!
+b: Estem transmetent desinformació! Estem destruint la nostra credibilitat amb només un clic!
 
 ```
 bb({body:"scream"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Som la raó per la qual el fascisme s'alçarà des de les runes de la democràcia!
+b: Som la raó per la qual el feixisme s'alçarà des de les runes de la democràcia!
 
 ```
 bb({body:"normal", eyes:"anger"});
@@ -1036,7 +1036,7 @@ bb({eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Vols una esquena que sembli un pretzel?! Canvia la teva postura!
+b: Vols una esquena que sembli un brètzel?! Canvia la teva postura!
 
 ```
 bb({body:"meta"});
@@ -1072,7 +1072,7 @@ h: Potser hauria de mirar la invitació?
 
 `bb({mouth:"normal", eyes:"normal"});`
 
-[Ignora-ho, no cambiarà el fet que som uns aixafaguitarres](#act1e_ignore_continue)
+[Ignora-ho, no canviarà el fet que som uns aixafaguitarres](#act1e_ignore_continue)
 
 [Espera, accepta-la.](#act1e_ignore_changetoyes)
 
@@ -1249,7 +1249,7 @@ bb({eyes:"pretty"});
 Game.FORCE_TEXT_DURATION = 2300;
 ```
 
-b: ♫ Cuixes i ^cul^, tot voluptuós-
+b: ♫ Cuixes i ^cul^, pitram voluptuós-
 
 (...500)
 
@@ -1258,7 +1258,7 @@ bb({eyes:"fear", mouth:"normal"});
 Game.FORCE_TEXT_DURATION = 2000;
 ```
 
-b: ♫ i l'altre amb els ^collons^!-
+b: ♫ i enlaire estan els ^collons^!-
 
 (...1000)
 
@@ -1267,7 +1267,7 @@ bb({eyes:"smile", mouth:"smile"});
 Game.FORCE_TEXT_DURATION = 1000;
 ```
 
-b: ♫ MÒN-PERVERTIT! FES'TE-LS TOTS TE-
+b: ♫ PERVERTIT-MÒN! FES'TE-LS TOTS TE-
 
 ```
 Game.FORCE_CANT_SKIP = false;
@@ -1299,11 +1299,11 @@ b: Et tiraran a un pou i et forçaran a menjar pa blanc fins que siguis tan gros
 {{/if}}
 
 {{if _.parasite}}
-b: Et forçaran a fer servir un temporitzador pomodoro i et diran «HAURIES DE SER MÉS PRODUCTIVA MALEÏT PARÀSIT»
+b: Et forçaran a fer servir un temporitzador Pomodoro i et diran «HAURIES DE SER MÉS PRODUCTIU MALEÏT PARÀSIT»
 {{/if}}
 
 {{if !_.whitebread && !_.parasite}}
-b: Et destrossarà els músculs per fer confetti, farà de les teves entranyes serpentines, i de la teva sang una ponxera!
+b: Et destrossarà els músculs per fer confeti, farà de les teves entranyes serpentines, i de la teva sang una ponxera!
 {{/if}}
 
 {{if !_.whitebread && !_.parasite}}
@@ -1342,7 +1342,7 @@ h: m'he afartat d'aquest joc.
 
 h:
 {{if _.fifteencigs}}«la solitud ens matarà»... {{/if}}
-{{if _.parasite}}«som paràssits de la societat»... {{/if}}
+{{if _.parasite}}«som paràsits de la societat»... {{/if}}
 {{if _.whitebread}}«no mengis això, ens matarà»... {{/if}}
 {{if _.subtweet}}«parlen darrere nostre»... {{/if}}
 {{if _.badnews}}«el món està en flames»... {{/if}}
@@ -1392,7 +1392,7 @@ h: Tothom sembla estar content. Sense preocupacions. Sense ansietat.
 
 `hong({mouth:"anger"});`
 
-h: Déu meu, per què no puc ser com ells? Perquè no puc ser *normal*?
+h: Déu meu, per què no puc ser com ells? Per què no puc ser *normal*?
 
 `bb({eyes:"normal_right"});`
 
@@ -1400,9 +1400,9 @@ b: Si parles de festes, voldria mencionar la invitació del cap de setmana. La m
 
 `bb({eyes:"normal"});`
 
-[Hauriem d'anar.](#act1g_go) `Game.OVERRIDE_CHOICE_LINE=true`
+[Hauríem d'anar.](#act1g_go) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[No hauriem d'anar.](#act1g_dont) `Game.OVERRIDE_CHOICE_LINE=true`
+[No hauríem d'anar.](#act1g_dont) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act1g_go
 
@@ -1418,7 +1418,7 @@ b: Si parles de festes, voldria mencionar la invitació del cap de setmana. La m
 
 # act1h
 
-b: Hauriem de--
+b: Hauríem de--
 
 ```
 bb({eyes:"wat", mouth:"small"});
@@ -1446,7 +1446,7 @@ b: què?
 h: ANIRÈ a la festa.
 
 {{if _.act1g=="go"}}
-h: NO perquè vulguis, sinò perquè *JO* vull.
+h: NO perquè vulguis, sinó perquè *JO* vull.
 {{/if}}
 
 {{if _.act1g=="dont"}}
@@ -1465,7 +1465,7 @@ sfx("rustle2");
 hong({body:"0_sammich", eyes:"0_annoyed", mouth:"0_neutral"});
 ```
 
-h: Ara disculpa'm mentre menjo aquest sabrós sandvitx en pau.
+h: Ara disculpa'm mentre menjo aquest saborós sandvitx en pau.
 
 `hong({body:"2_sammich_eat"});`
 
@@ -1576,7 +1576,7 @@ n: FELICITACIONS
 
 n: HEU ACONSEGUIT PROTEGIR LES NECESSITATS FÍSIQUES + SOCIALS + MORALS DEL TEU HUMÀ
 
-n: NOMÉS FIXA'T COM D'AGRAÏT ESTÀ AMB TU!
+n: NOMÉS FIXA'T COM ESTÀ D'AGRAÏT AMB TU!
 
 (...500)
 
@@ -1592,13 +1592,13 @@ n: *ACABA'LS*
 
 [{LLUITA: Castiga el teu estressant mòbil!}](#act1i_phone) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[{FUGIDA: Cargola't com una pilota i plora!}](#act1i_cry) `Game.OVERRIDE_CHOICE_LINE=true`
+[{FUGIDA: Caragola't com una pilota i plora!}](#act1i_cry) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act1i_phone
 
 `bb({mouth:"normal", eyes:"narrow"})`
 
-b: El teu mòbil t'estava donant un atac de pànic!
+b: El teu mòbil t'estava agafant un atac de pànic!
 
 `bb({eyes:"anger"})`
 
@@ -1627,7 +1627,7 @@ b: MATA'L MATA'L MATA'L MATA'L MATA'L MATA'L MATA'L MATA'L MATA'L MATA'L MATA'L 
 
 `bb({eyes:"fear", mouth:"normal"})`
 
-b: El món sencer està plè de perills!
+b: El món sencer està ple de perills!
 
 ```
 bb({body:"fear"});

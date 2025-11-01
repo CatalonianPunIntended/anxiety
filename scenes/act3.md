@@ -80,7 +80,7 @@ publish("act3",["roofhunter",21]);
 publish("act3",["roofhong",4]);
 ```
 
-r: D'acord. Veus la piscina d'un blau claret d'allà abaix?
+r: D'acord. Veus la piscina d'un blau claret d'allà baix?
 
 ```
 publish("act3-alpha", ["dizzyhong",0]);
@@ -180,7 +180,7 @@ r: Nano, sé que *tu* saps que l'animal *fa mal* a la gent com nosaltres. Que *t
 publish("act3",["roofhunter",19]);
 ```
 
-r: No és el nostre amic. És una bèstia salvatge, que ha de ser o bé *tranquilitzada*...
+r: No és el nostre amic. És una bèstia salvatge, que ha de ser o bé *tranquil·litzada*...
 
 ```
 publish("act3",["roofhunter",20]);
@@ -265,7 +265,7 @@ bb({ eyes:"start" });
 
 [Això és estúpid i autodestructiu!](#act3a_bad) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[Aquests boigos no són els teus amics!](#act3a_alone) `Game.OVERRIDE_CHOICE_LINE=true`
+[Aquests boigs no són els teus amics!](#act3a_alone) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act3a_harm
 
@@ -309,7 +309,7 @@ bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 
 h: Saps, podria creure't... si no ho haguessis intentat tantíssims cops.
 
-h: Ets el llop que diu «que vé el llop».
+h: Ets el llop que diu «que ve el llop».
 
 ```
 bb({ eyes:"sad" });
@@ -362,7 +362,7 @@ b: humà, si us plau...
 
 h: Oh, *perdona* que les farmacèutiques no aprovin l'automedicació.
 
-h: Mira'm, ^imbècil^, *tots* tenim formes de callar-te la ^puta^ boca.
+h: Mira'm, ^imbècil^, *tots* tenim formes de fer-te callar la ^puta^ boca.
 
 `hong({ body:"look_up", eyes:"look_up" });`
 
@@ -378,7 +378,7 @@ h: Hi ha qui s'abraona amb altra gent.
 
 `hong({ eyes:"angry" });`
 
-h: Jo m'abraonarè amb la piscina.
+h: Jo m'abraonaré amb la piscina.
 
 [T'has alcoholitzat i a SIS PLANTES](#act3_bad_1_harm)
 
@@ -388,7 +388,7 @@ h: Jo m'abraonarè amb la piscina.
 
 # act3_bad_1_harm
 
-b: Fins i tot si caus a l'aigua, la tensió superficial et trencarà les costelles i una conmoció *com a mínim!*
+b: Fins i tot si caus a l'aigua, la tensió superficial et trencarà les costelles i una commoció *com a mínim!*
 
 h: Ah.
 
@@ -418,7 +418,7 @@ h: J- Perdona, i les *gràcies*?
 
 `bb({ eyes:"angry" });`
 
-b: Això és precissament perquè *existeixo!* Perquè els humans no es poden protegir a si mateixos!
+b: Això és precisament perquè *existeixo!* Perquè els humans no es poden protegir a si mateixos!
 
 b: He intentat salvar-te el teu estúpid cul tota la meva vida i ara tu ho tiraràs t--
 
@@ -457,11 +457,11 @@ bb({ eyes:"sorry"});
 hong({ body:"yell_1", mouth:"yell", eyes:"blank" });
 ```
 
-h: UAU acabes de dir l'eufemisme més *^putíssimament^* brutal del mileni!
+h: UAU acabes de dir l'eufemisme més *^putíssimament^* brutal del mil·lenni!
 
 `hong({ body:"yell_2" });`
 
-h: Sí, tros de ^merda^ plè de sang! L'has espifiada un munt!
+h: Sí, tros de ^merda^ ple de sang! L'has espifiada un munt!
 
 `hong({ body:"normal", mouth:"angry", eyes:"angry" });`
 
@@ -469,14 +469,14 @@ h: Més notícies, Capità Obvi?
 
 [Però la venjança no soluciona res!](#act3_good_1_fail_revenge) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
 
-[Però ara *sí* tinc la raó!](#act3_good_1_fail_harm) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
+[Però ara *sí* que tinc la raó!](#act3_good_1_fail_harm) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
 
 [T'he fet mal.](#act3_good_2a)
 
 
 # act3_good_1_fail_revenge
 
-b: Necessites tenir una relació més salutable amb les teves emocions, en comptes de ofegar-les am--
+b: Necessites tenir una relació més saludable amb les teves emocions, en comptes d'ofegar-les am--
 
 ```
 hong({body:"drink"});
@@ -626,7 +626,7 @@ h: Tota la gent sàvia dels nostres temps diu: les emocions negatives són *dole
 
 `hong({ eyes:"less_angry" });`
 
-h: Com no! Per això les van anomenar *negatives!*
+h: No cal dir-ho! Per això les van anomenar *negatives!*
 
 b: humà... sisplau...
 
@@ -648,7 +648,7 @@ h: No sento absolutament res.
 
 `bb({mouth:"sorry", eyes:"sorry_down"});`
 
-b: Em vaig obsessionar tant amb protegir-te del dolor, que no vaig caure que *jo* era la causa del mateix. 
+b: Em vaig obsessionar tant amb protegir-te del dolor, que no vaig caure que *jo* era la causa d'aquest.
 
 ```
 bb({ eyes:"sorry"});
@@ -748,7 +748,7 @@ b: Ho sento.
 
 `bb({eyes:"sorry_down"});`
 
-b: Jo havia de ser el *teu* gos guardià, però actuava com si haguèssis de *obeir-me*.
+b: Jo havia de ser el *teu* gos guardià, però actuava com si haguessis d’*obeir-me*.
 
 `bb({eyes:"sorry_up"});`
 

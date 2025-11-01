@@ -66,7 +66,7 @@ sfx("rustle");
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-h: Nope. No, nope, not listening. Gonna check my phone.
+h: Nop. No, no, no t'escoltaré. Miraré el mòbil.
 
 ```
 sfx("rustle2");
@@ -77,28 +77,28 @@ n: HAS DE PROTEGIR AL TEU ÉSSER HUMÀ DEL *PERILL*
 
 `bb({eyes:"look", mouth:"small_lock", body:"fear"})`
 
-b: Gasp! You're scrolling your life away on Twitter! Again!
+b: Espant! Estàs malgastant la teva vida al Twitter! Un altre cop!
 
 ```
 bb({eyes:"normal", mouth:"normal", body:"normal"});
 hong({eyes:"annoyed"});
 ```
 
-h: Yeah I wonder why I don't just sit and listen to my thoughts more often.
+h: Sí, em pregunto perquè no escolto als meus pensaments més sovint.
 
 `hong({eyes:"neutral"});`
 
-n: QUICK, WARN THEM ABOUT A *DANGER!*
+n: RÀPID, AVISA'LS D'UN *PERILL!*
 
 ```
 bb({eyes:"look"});
 ```
 
-[Oh no, look at that horrible news story!](#act1d_news)
+[Oh no, fixa't en aquella noticia terrible!](#act1d_news)
 
-[Oh no, is that tweet secretly about *us?*](#act1d_subtweet)
+[Oh no, una indirecta cap a *nosaltres*?](#act1d_subtweet)
 
-[Hey, a GIF of a cat drinking milk](#act1d_milk)
+[Ei, un GIF d'un gatet bevent llet](#act1d_milk)
 
 # act1d_milk
 
@@ -112,7 +112,7 @@ bb({body:"scream"});
 Game.OVERRIDE_TEXT_SPEED = 1.8;
 ```
 
-b: ELS GATS NO PODEN DIGERIR LLET I SOM GENT TERRIBLE PER DISFRUTAR L'ABÚS ANIMAL
+b: ELS GATS NO PODEN DIGERIR LLET I SOM GENT TERRIBLE PER GAUDIR L'ABÚS ANIMAL
 
 (...200)
 
