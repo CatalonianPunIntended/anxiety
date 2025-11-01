@@ -243,7 +243,7 @@ h: I tant. No crec que el meu segur cobreixi «fer el burro».
 
 `hong({eyes:"annoyed", mouth:"normal"});`
 
-b: Així i tot... hem sobreviscut!
+b: Encara i així... hem sobreviscut!
 
 `hong({eyes:"normal"});`
 
@@ -274,7 +274,7 @@ h: ?
 
 `bb({eyes:"normal_d"});`
 
-b: Així i tot...
+b: Encara i així...
 
 h: Hm?
 
@@ -334,7 +334,7 @@ b: Well, it makes everything else less scary in comparison. It's also got me thi
 
 b: Si barallar-me amb tu està malament perquè no et protegeixo de res...
 
-h: Però barallar-me amb tu *també* està malament perquè només fa que et posis a cridar més...
+h: Però barallar-me amb tu *també* està malament perquè només fa que et possis a cridar més...
 
 `bb({eyes:"normal_r"})`
 
@@ -418,7 +418,7 @@ b: Humà... podries domesticar aquest llop?
 
 `hong({eyes:"sad"})`
 
-h: Jo.... ho provaré.
+h: Jo.... ho provarè.
 
 `hong({eyes:"normal_l", body:"chin", mouth:"narrow"})`
 
@@ -447,11 +447,11 @@ hong({body:"normal"});
 bb({eyes:"normal"});
 ```
 
-[Tinc por que ens puguin fer mal.](#act4_harm)
+[Tinc por a que ens puguin fer mal.](#act4_harm)
 
-[Tinc por que ens deixin sols.](#act4_alone)
+[Tinc por a que ens deixin sols.](#act4_alone)
 
-[Tinc por que ens vegin com mala gent.](#act4_bad)
+[Tinc por a que ens veguin com mala gent.](#act4_bad)
 
 # act4_harm
 
@@ -466,7 +466,7 @@ b: Vull protegir la teva necessitat a la integritat física,
 
 `bb({eyes:"sad_d"})`
 
-b: Però *tot el que ens envolta* sembla tan perillós. Tan ple de tragèdia i mal.
+b: Però *tot el que ens envolta* sembla tan perillós. Tan plè de tragèdia i mal.
 
 `bb({eyes:"sad"})`
 
@@ -475,7 +475,7 @@ b: No sé, *he* escollit què dir molta estona. Què vols dir *tu*, humà?
 {{/if}}
 
 {{if _.a4_fears_discussed==2}}
-b: Un altre cop, és el teu torn, humà. Què penses?
+b: Un altre cop, és el teu torn, humà. Qué penses?
 {{/if}}
 
 {{if _.a4_fears_discussed==3}}
@@ -535,7 +535,7 @@ bb({ body:"normal", mouth:"normal" });
 hong({ body:"normal", mouth:"normal", eyes:"normal"});
 ```
 
-h: Ara mateix estem practicant la comunicació. Ens permetrà detectar millor el perill, amb menys falsos positius,
+h: Ara mateix estem practicant la comunicació. Ens permetrà detectar millor el peril, amb menys falsos positius,
 
 `hong({ eyes:"surprise" });`
 
@@ -543,7 +543,7 @@ h: I *això* ens protegirà del perill!
 
 `hong({ eyes:"normal", mouth:"normal" });`
 
-h: I, per tant: això *és* defensa personal.
+h: I per tant: això *és* defensa personal.
 
 `bb({ eyes:"normal_r" })`
 
@@ -637,7 +637,7 @@ h: Un truquet que fan els entrenadors és posar sorolls de llamps a un volum bai
 
 `hong({ body:"hands_2" });`
 
-h: Amb el temps, l'entrenador apuja el volum a poquet a poquet fins que el gos superi la seva por.
+h: Amb el temps, l'entrenador puja el volum poquet a poquet fins que el gos superi la seva por.
 
 ```
 hong({ body:"normal", eyes:"surprise" });
@@ -660,7 +660,7 @@ h: Com ets un gos, podria funcionar igual, no? Tots els mamífers tenen la matei
 
 # act4_harm_exposure_dog
 
-h: I t'ensenyaré a ser amable i pacient fins que et domestiqui com a un gosset maco i petitó.
+h: I t'ensenyaré a ser amable i pacient fins que et domestiqui com a un goset maco i petitó.
 
 `bb({ MOUTH_LOCK:true })`
 
@@ -680,7 +680,7 @@ b: *Acabem* de veure el que passa quan ignores el perill – et poses en situaci
 
 `bb({ eyes:"angry_r", body:"one_up" })`
 
-b: A més, amb *tanta* insensibilització no ens tornaríem en psicòpates?
+b: A més, amb *tanta* insensibilització no ens tornaríem en psicópates?
 
 `bb({ mouth:"scream", eyes:"scream", body:"two_up" })`
 
@@ -688,7 +688,7 @@ b: En no res menjarem crispetes mentre veiem pornografia snuff!
 
 `hong({ eyes:"annoyed" })`
 
-h: Crec... que hi ha una distinció entre allò i els llamps.
+h: Crec... que hi ha una distincció entre allò i els llamps.
 
 `bb({ body:"normal", mouth:"normal", eyes:"suspect" })`
 
@@ -700,7 +700,7 @@ h: No ho sé. Però *tu* em pots ajudar!
 
 `hong({ eyes:"normal", body:"normal" })`
 
-H: Treballar i negociar amb tu, marquem la diferència.
+H: Traballar i negociar amb tu, marquem la diferència.
 
 `bb({ body:"paw", mouth:"narrow", eyes:"closed" })`
 
@@ -735,7 +735,7 @@ h: Abans de trobar-nos amb perill *real*, parem.
 
 `bb({ eyes:"annoyed_r", mouth:"narrow" });`
 
-b: Jo faig la distinció entre sentir llamps i presentar-nos en mig una tempesta amb un barret d'alumini.
+b: Jo faig la distincció entre sentir llamps i presentar-nos en mig una tempesta amb un barret d'alumini.
 
 (#act4_something_else)
 
@@ -763,7 +763,7 @@ b: ...
 
 `bb({ eyes:"annoyed" })`
 
-b: Espera, cap discussió a favor en contra del qual penso? Només... «gràcies»?
+b: Espera, cap discussió a favor en contra del que penso? Només... «gràcies»?
 
 `hong({ eyes:"surprise", body:"shrug" })`
 
@@ -809,7 +809,7 @@ h: No és com si la vida et donés una llista amb tres respostes possibles de di
 
 `hong({ eyes:"normal", mouth:"smile", body:"normal" })`
 
-h: Però per ara, almenys et puc donar les gràcies.
+h: Però per ara, al menys et puc donar les gràcies.
 
 b: I, gràcies a tu també, per escoltar-me pacientment.
 
@@ -856,7 +856,7 @@ b: Vull ajudar-te a cobrir aquella intensa i humana necessitat de pertànyer...
 
 `bb({ eyes:"sad_u" });`
 
-b: Però em preocupa que si algú mai ens conegueren – de *veritat* – s'allunyarien.
+b: Però em preocupa que si algú mai ens coneixès – de *veritat* – s'allunyaríen.
 
 `bb({ eyes:"sad" });`
 
@@ -865,7 +865,7 @@ b: No sé, *he* escollit què dir molta estona. Què vols dir *tu*, humà?
 {{/if}}
 
 {{if _.a4_fears_discussed==2}}
-b: Un altre cop, és el teu torn, humà. Què penses?
+b: Un altre cop, és el teu torn, humà. Qué penses?
 {{/if}}
 
 {{if _.a4_fears_discussed==3}}
@@ -887,7 +887,7 @@ bb({ eyes:"normal" });
 hong({ body:"chin" });
 ```
 
-h: Podem practicar capacitats socials com ara fer preguntes, escoltar i empatitzar, obrir-se i ser vulnerables, etc.?
+h: Podem practicar capacitats socials com ara fer preguntes, escoltar i empatitzar, obrir-se i ésser vulnerables, etc?
 
 `hong({ eyes:"normal_l" });`
 
@@ -918,7 +918,7 @@ b: Són moltes opcions. Però sobre «aprendre capacitats socials»...
 
 `bb({ eyes:"suspect" });`
 
-b: Però no són els assassins en sèrie que llegeixen les emocions de les seves víctimes «empàtics»?
+b: Però no són els assassins en série que llegeixen les emocions de les seves víctimes «empàtics»?
 
 `bb({ eyes:"annoyed" });`
 
@@ -952,7 +952,7 @@ b: Esdevindrem en un fregapeus que digui «Benvolguts», dient «Gràcies» i «
 
 `bb({ mouth:"scream", eyes:"scream" })`
 
-b: Abraçarem tants fanals, que se'ns quedaran els braços plens de ronya i alumini!
+b: Abraçarem tants fanals, que s'ens quedaran els braços plens de ronya i alumini!
 
 ```
 bb({ mouth:"normal", eyes:"normal" });
@@ -963,14 +963,14 @@ h: Nah, tens raó. Les «capacitats socials» no poden ser només per complaure 
 
 `hong( body:"one_up" });`
 
-h: No podem invitar a ningú a casa, si abans no tenim parets que l'aguantin.
+h: No podem invitar a ningú a casa, si abans no tenim parets que la aguantin.
 
 ```
 hong( eyes:"angry", mouth:"narrow" });
 bb( eyes:"annoyed", mouth:"smile" });
 ```
 
-h: També... re: la imatge dels braços... *eugh??*
+h: També... re: l'imatge dels braços... *eugh??*
 
 (#act4_something_else)
 
@@ -1030,7 +1030,7 @@ h: Potser ens adonem que som més agradables del que pensem.
 
 `bb({ eyes:"sad" });`
 
-b: Si ens posem un somriure sense profunditat, mai connectarem amb ningú,
+b: Si ens posem un somriure sense profunditat, mai conectarem amb ningú,
 
 `bb({ eyes:"super_sad" });`
 
@@ -1047,7 +1047,7 @@ bb({eyes:"normal"});
 
 h: Fes volta.
 
-b: Què.
+b: Qué.
 
 `hong({body:"hands_1"})`
 
@@ -1088,11 +1088,11 @@ h: Ho serà per a *nosaltres!*
 
 `hong({ body:"one_up", eyes:"annoyed" });`
 
-h: A l'arena social, no seríem ni pes ploma, però ens apropem a... pes quark.
+h: A la arena social, no seríem ni pes pluma, però ens apropem a... pes quark.
 
 `hong({ body:"normal", eyes:"normal" });`
 
-h: Si hem de començar amb victòries petites i fàcils, que així sigui. Haurem de trepitjar el 1r esglaó abans del 1000è.
+h: Si hem de començar amb victóries petites i fàcils, que així sigui. Haurem de trepitjar el 1r esglaó abans del 1000è.
 
 b: Sí! Potser després de dir «Hola», podem continuar amb un...
 
@@ -1110,7 +1110,7 @@ h: *«Tot bé!»*
 
 `bb({ eyes:"suspect_r" })`
 
-b: Potser el barista només vol fer els maleïts cafès, no ser un *experiment* per demostrar que les nostres capacitats socials són terribles.
+b: Potser el barista només vol fer els maleïts cafés, no ser un *experiment* per demostrar que les nostres capacitats socials apesten.
 
 `bb({ eyes:"annoyed" })`
 
@@ -1125,14 +1125,14 @@ h: També està bé saber-ho!
 
 `hong({ eyes:"normal" });`
 
-h: Podem aprendre com preguntar de forma proactiva a la gent amb què se senten còmodes, per respectar els límits de la resta.
+h: Podem aprendre com preguntar de forma proactiva a la gent amb què se senten comodes, per respectar els límits de la resta.
 
 ```
 hong({ eyes:"annoyed_l", mouth:"narrow" });
 bb({ eyes:"annoyed", mouth:"smile" });
 ```
 
-h: Ja m'entens, són les estupideses als pamflets de l'hospital.
+h: Ja m'entens, són les estupidesses als panflets de l'hospital.
 
 (#act4_something_else)
 
@@ -1151,16 +1151,16 @@ b: Vull defensar les teves necessitats morals, el desig de ser millor persona,
 
 `bb({ eyes:"sad_d" })`
 
-b: Però sembla que, al cap i a la fi, estem tan essencialment... trencats.
+b: Però sembla que al cap i a la fi, estem tan esencialment... trencats.
 
 `bb({ body:"two_up", eyes:"angry" })`
 
 {{if _.INJURED}}
-b: I no em diguis que *no* estem malament del cap. Hem saltat d'un *sostre*.
+b: I no em diguis que *no* estem mal del cap. Hem saltat d'un *sostre*.
 {{/if}}
 
 {{if !_.INJURED}}
-b: I no em diguis que *no* estem malament del cap. Quasi saltem d'un *sostre*.
+b: I no em diguis que *no* estem mal del cap. Quasi saltem d'un *sostre*.
 {{/if}}
 
 `bb({ body:"normal", eyes:"sad" })`
@@ -1170,7 +1170,7 @@ b: No sé, *he* escollit què dir molta estona. Què vols dir *tu*, humà?
 {{/if}}
 
 {{if _.a4_fears_discussed==2}}
-b: Un altre cop, és el teu torn, humà. Què penses?
+b: Un altre cop, és el teu torn, humà. Qué penses?
 {{/if}}
 
 {{if _.a4_fears_discussed==3}}
@@ -1192,11 +1192,11 @@ bb({eyes:"normal"});
 hong({body:"chin"});
 ```
 
-h: Podem treballar a tenir millors hàbits, intentar tenir una vida similar al que valorem.
+h: Podem treballar en tenir millors habits, intentar tenir una vida similar al que valorem.
 
 `hong({body:"one_up"});`
 
-h: I si ho necessitéssim, podem tenir ajuda professional – un terapeuta o orientador.
+h: I si ho necessitéssim, podem tenir ajuda profesional – un terapeuta o orientador.
 
 `hong({body:"normal"});`
 
@@ -1222,14 +1222,14 @@ b_ Ahhh ho sabia estarem trencats per sempre!
 
 `hong({eyes:"surprise"});`
 
-h: Però almenys podem estar *menys* trencats.
+h: Però al menys podem estar *menys* trencats.
 
 ```
 bb({mouth:"normal", eyes:"annoyed"});
 hong({eyes:"sad", mouth:"smile"});
 ```
 
-h: Les ferides se sanen amb el temps, però mai se'n van. I està bé.
+h: Les ferides se sanen amb el temps, però mai s'en van. I està bé.
 
 `bb({eyes:"annoyed_r"});`
 
@@ -1259,7 +1259,7 @@ h: No facis això si us plau.
 
 `bb({ eyes:"angry_d" })`
 
-b: Potser sonarà malaltís el que diré, però... una part meva *vol* aquest desordre.
+b: Potser sonarà malaltís el que diré però... una part meva *vol* aquest desordre.
 
 `bb({ eyes:"angry" })`
 
@@ -1271,11 +1271,11 @@ b: Sense el desordre, no seria el nostre art bàsic i sense ànima?
 
 `bb({ eyes:"sad_u", body:"two_up" })`
 
-b: Sense el desordre, no seríem incapaços de connectar amb amics amb aquest desordre?
+b: Sense el desordre, no seriem incapaços de conectar amb amics amb aquest desordre?
 
 `bb({ eyes:"sad", body:"chest" })`
 
-b: Si mai estem satisfets amb la vida, pararíem d'inspirar-nos a fer grans obres?
+b: Si mai estem satisfets amb la vida, pararíem de inspirar-nos a fer grans obres?
 
 `hong({ MOUTH_LOCK:true })`
 
@@ -1295,7 +1295,7 @@ b: Oh, sí! Buf! Quina alegria!
 
 `bb({ body:"one_up", eyes:"sexy", mouth:"normal" })`
 
-b: «Doctor, em fa angoixa pagar 100 $/hora només per a què em preguntis *"com et fa sentir això?"*»
+b: «Doctor, em fa angoixa pagar 100$/hora només per a què em preguntis *"com et fa sentir això?"*»
 
 `bb({ body:"paw", eyes:"closed", mouth:"narrow" })`
 
@@ -1372,11 +1372,11 @@ b: Un moment.
 
 `bb({ eyes:"angry", body:"one_up" });`
 
-b: Creus que Martin Luther King podria haver dit «Ai que mal no podem asseure'ns al davant de l'autobús, però hem d'*acceptar*»?
+b: Creus que Martin Luther King podria haver dit «Ai què mal no podem sentar-nos al davant de l'autobús, però hem d'*acceptar*-ho»?
 
 `bb({ eyes:"angry_r", body:"two_up" });`
 
-b: Per què el complex industrial d'autoajuda pensa que retre l'espasa és una mena de *saviesa profunda*?
+b: Per què el complexe industrial d'autoajuda pensa que retre l'espassa és una mena de *saviessa profunda*?
 
 `bb({ eyes:"annoyed", body:"normal" });`
 
@@ -1402,19 +1402,19 @@ b: Jo ho puc *reconèixer*.
 
 `bb({ eyes:"angry" });`
 
-b: Com si fos *bo* el que estiguem trencats? No!
+b: Com si sigués *bo* el que estiguem trencats? No!
 
 `bb({ eyes:"angry_r", body:"one_up" });`
 
-b: Tots els guionistes de Hollywood que romantitzen les malalties mentals són uns punyeters!
+b: Tots els guionistes de Hollywood que romantitzen les enfermetats mentals són uns punyeters!
 
 `bb({ eyes:"angry", body:"two_up" });`
 
-b: Tenir una malaltia mental és *una parida*! Arrabassen *vides* a la gent! Per què hauríem d'«acceptar-ho»?!
+b: Tenir una enfermetat mental és *una parida*! Arrebaten *vides* a la gent! Per què hauríem d'«acceptar-ho»?!
 
 `bb({ body:"normal" });`
 
-h: Crec que els terapeutes diuen que hem d'«acceptar» les nostres emocions en el sentit de ser pacients amb elles.
+h: Crec que els terapeutes diuen que hem d'«acceptar» les nostres emocions en el sentit de ésser pacients amb elles.
 
 ```
 hong({ body:"one_up" });
@@ -1426,16 +1426,16 @@ h: Com amb les sorres movedisses, on cal més estirar-se i esperar amb paciènci
 `hong({ eyes:"surprise" });`
 
 {{if _.INJURED}}
-h: Lluitar contra tu, la meva por, m'ha portat a l'hospital.
+h: Lluitar contra tu, la meva por, m'ha portat al hospital.
 {{/if}}
 
 {{if !_.INJURED}}
-h: Lluitar contra tu, la meva por, quasi em porta a l'hospital.
+h: Lluitar contra tu, la meva por, quasi em porta al hospital.
 {{/if}}
 
 `hong({ body:"normal", eyes:"normal" });`
 
-h: La solució, però, és fer el que fem ara – no lluitar, sinó conviure amb paciència.
+h: La solució, però, és fer el que fem ara – no lluitar, sinò conviure amb paciència.
 
 `bb({ eyes:"annoyed" });`
 
@@ -1467,18 +1467,18 @@ h: Crec que els terapeutes diuen que hem d'«acceptar» les nostres emocions en 
 
 `hong({ eyes:"surprise", body:"one_up" });`
 
-h: Escoltar-te, treballar *amb* tu, però no prendre el que diguis com si fos a missa.
+h: Escoltar-te, treballar *amb* tu, però no prendre el que diguis com si fós a missa.
 
 ```
 hong({ eyes:"normal", body:"normal" });
 bb({ eyes:"annoyed", mouth:"normal" });`
 ```
 
-b: Doncs, els terapeutes haurien de dir *allò* en comptes d'un mot tan confús com ara «acceptar».
+b: Doncs, els terapeutes haurien de dir *allò*encomptes d'un mot tan confús com ara «acceptar».
 
 `hong({ body:"chin", eyes:"annoyed" });`
 
-h: Suposo que també se'ls dona fatal escollir les paraules, a més.
+h: Suposo que també s'els dona fatal escollir les paraules, a més.
 
 (#act4_something_else)
 
@@ -1505,15 +1505,15 @@ h: Tens alguna cosa més al teu trist cor?
 {{/if}}
 
 {{if _.a4_talked_about_harm!=true}}
-[Tinc por que ens puguin fer mal.](#act4_harm)
+[Tinc por a que ens puguin fer mal.](#act4_harm)
 {{/if}}
 
 {{if _.a4_talked_about_alone!=true}}
-[Tinc por que ens deixin sols.](#act4_alone)
+[Tinc por a que ens deixin sols.](#act4_alone)
 {{/if}}
 
 {{if _.a4_talked_about_bad!=true}}
-[Tinc por que ens vegin com mala gent.](#act4_bad)
+[Tinc por a que ens veguin com mala gent.](#act4_bad)
 {{/if}}
 
 [Nah, ja estic bé.](#act4c_prelude)
@@ -1592,16 +1592,16 @@ music('campus', {volume:0.5, fade:1});
 
 `publish("act4", ["alshire", 0]);`
 
-a: U-U-Us importaria si segués amb vosaltres per menjar?
+a: U-U-Us importaria si seiés amb vosaltres per menjar?
 
 `publish("act4", ["alshire", 1]);`
 
 {{if _.TOP_FEAR=="harm"}}
-s: *Aquest* és qui t'agrada? I per què s'asseu com si fos un psicòpata assassí?
+s: *Aquest* és qui t'agrada? I per què s'asseu com si fos un psicópata assassí?
 {{/if}}
 
 {{if _.TOP_FEAR=="alone"}}
-s: Preguntar a qui t'agrada si pots seure al seu costat? No t'adones que semblem uns *pesats*?!
+s: Preguntar a qui t'agrada si et pots seure al seu costat? No t'adones de que semblem uns *pesats*?!
 {{/if}}
 
 {{if _.TOP_FEAR=="bad"}}
@@ -1631,7 +1631,7 @@ h2: Sí, estaves al sofà! A la primera festa que vaig atendre...
 `publish("act4", ["hong_to_alshire",10]);`
 
 {{if _.a2_ending=="fight"}}
-h2: Quan vaig tenir un atac de pànic i vaig donar un cop a l'hoste.
+h2: Quan vaig tenir un atac de pànic i vaig donar un cop al hoste.
 {{/if}}
 
 {{if _.a2_ending=="flight"}}
@@ -1650,7 +1650,7 @@ publish("act4", ["hong_to_alshire", 3]);
 publish("act4", ["bb_to_alshire", _.INJURED ? 2 : 0]);
 ```
 
-h2: Ah, no volia fer-vos sentir incòmodes!
+h2: Ah, no volia fer-vos sentir incómodes!
 
 `publish("act4", ["hong_to_alshire",4]);`
 
@@ -1662,7 +1662,7 @@ publish("act4", ["alshire", 4]);
 ```
 
 {{if _.TOP_FEAR=="harm"}}
-s: AHHHHH HO SABIA! ÉS UN PSICÒPATA PERILLÓS IMPULSIU!
+s: AHHHHH HO SABIA! ÉS UN PSICÓPATA PERILLÓS IMPULSIU!
 {{/if}}
 
 {{if _.TOP_FEAR=="alone"}}
@@ -1682,18 +1682,18 @@ publish("act4", ["hong_to_alshire", 5]);
 publish("act4", ["bb_to_alshire", _.INJURED ? 3 : 1]);
 ```
 
-b: Un segon, humà, semblen incòmodes.
+b: Un segon, humà, semblen incómodes.
 
 ```
 publish("act4", ["hong_to_alshire", 6]);
 publish("act4", ["bb_to_alshire", _.INJURED ? 2 : 0]);
 ```
 
-h2: Ah, cap pressió!
+h2: Ah, cap presió!
 
 `publish("act4", ["hong_to_alshire", 4]);`
 
-h2: Només dic que si vols seure aquí pots fer-ho.
+h2: Només dic que si vols seure't aqui pots fer-ho.
 
 ```
 publish("act4", ["hong_to_alshire", 5]);
@@ -1721,7 +1721,7 @@ publish("act4", ["hong_to_alshire", 9]);
 publish("act4", ["bb_to_alshire", _.INJURED ? 3 : 1]);
 ```
 
-b: Un segon, humà, potser els estem incomodant.
+b: Un segon, humà, potsem els estem incomodant.
 
 ```
 publish("act4", ["hong_to_alshire", 3]);
@@ -1740,7 +1740,7 @@ publish("act4", ["alshire", 4]);
 ```
 
 {{if _.TOP_FEAR=="harm"}}
-s: QUINA MENA DE RETORÇATS PENSAMENTS TENEN?! QUINS DESITJOS PERVERSOS OMPLEN AQUEST COR PSICÒPATA?!
+s: QUINA MENA DE RETORÇATSPENSAMENTS TENEN?! QUINS DESITGOS PERVERSOS PLENEN AQUEST COR PSICÓPATA?!
 {{/if}}
 
 {{if _.TOP_FEAR=="alone"}}
@@ -1787,7 +1787,7 @@ Game.WORDS_HEIGHT_BOTTOM = -1; /* reset */
 
 `publish("act4-jumpcut-hong");`
 
-h: Heh. Que estrany. Em pregunto que els passava pel cap.
+h: Heh. Que raro. Em pregunto que els passava pel cap.
 
 `publish("act4", ["hong_closer", 2]);`
 
@@ -1828,7 +1828,7 @@ b: Vull ser l'alarma per a les teves necessitats *psicológiques* – les teves 
 
 `publish("act4", ["bb_closer", 1]);`
 
-b: Però... se'm dona de pena el meu treball, necessito que m'entrenis.
+b: Però... s'em dona de pena el meu treball, necessito que m'entrenis.
 
 `publish("act4", ["bb_closer", 4]);`
 
@@ -1840,7 +1840,7 @@ b: Ajuda'm a ajudar-te!
 
 `publish("act4", ["bb_closer", 6]);`
 
-b: Encara que ensenyar trucs a un gos vell *serà* un procés llarg. Potser faran falta *anys.*
+b: Encara que ensenyar trucs a un gos vell *serà* un procès llarg. Potser faran falta *anys.*
 
 `publish("act4", ["bb_closer", 3]);`
 
@@ -1848,7 +1848,7 @@ b: I de vegades aniré cap enrere, tornaré als meus antics hàbits.
 
 `publish("act4", ["bb_closer", 2]);`
 
-b: Lladraré a les ombres. T'espantaré amb les meves paraules. Potser et mostro imatges intrusives de... coses.
+b: Lladraré a les ombres. T'asustaré amb les meves paraules. Potser et mostro imatges intrusives de... coses.
 
 `publish("act4", ["bb_closer", 9]);`
 
@@ -1975,7 +1975,7 @@ b: AAAAA ENCARA MENGES SOL QUINZE CIGARRETES AAAAA
 {{/if}}
 
 {{if _.parasite}}
-b: AAAAA ENCARA NO POTS PRODUIR MENTRE MENGES SOM PARÀSITS DE LA SOCIETAT AAAAA
+b: AAAAA ENCARA NO POTS PRODUÏR MENTRE MENJES SOM PARÀSSITS DE LA SOCIETAT AAAAA
 {{/if}}
 
 {{if _.whitebread}}
@@ -1995,4 +1995,3 @@ Game.FORCE_NO_VOICE = true;
 b: BUB BUB BUB BUB BUB
 
 (#credits)
-
