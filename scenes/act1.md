@@ -1231,7 +1231,7 @@ bb({mouth:"normal"});
 Game.FORCE_TEXT_DURATION = 2400;
 ```
 
-b: ♫ Arribarè a ser un ^maso^-
+b: ♫ Arribarè a ser ^masoca^-
 
 (...500)
 
