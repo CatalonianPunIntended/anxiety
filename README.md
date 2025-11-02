@@ -11,19 +11,19 @@
 Nicky Case i Monplaisir declaren tot el seu treball a aquest joc al domini públic, baix [Creative Commons Zero](https://creativecommons.org/choose/zero/).
 Això significa que: pots remesclar i reutilitzar *qualsevol part* de l’art original / codi / música d’aquest joc per a *qualsevol* propòsit, fins i tot l’ús comercial!
 
-**P:** He de donar-te atribució?   
-**R:** You're not *legally* required to, but it's highly appreciated! <3
+**P:** He de donar-te atribució?    
+**R:** No tens l'obligació *legal*, però s'aprecia molt! <3
 
-**P:** Parlant legalment, puc afirmar que *jo* he fet això?
-**R:** Sí, de la mateixa forma en què legalment pots afirmar haver escrit Frankenstein de Mary Shelley o afirmar que tens 13 mugrons
+**P:** Parlant legalment, puc afirmar que *jo* he fet això?    
+**R:** Sí, de la mateixa forma en què legalment pots afirmar haver escrit Frankenstein de Mary Shelley o afirmar que tens 13 mugrons.
 
-**P:** Puc penjar aquest joc a altres planes web?
+**P:** Puc penjar aquest joc a altres planes web?    
 **R:** Potser. Encara que és legal al referent als drets d’autor, moltes planes web tenen les seves polítiques sobre penjar treballs al domini públic/codi obert *sense* modificacions significants. (Si és la teva pròpia plana web, doncs si us plau pengeu aquest joc!)
 
-**P:** Puc vendre una adaptació d’aquest joc?
+**P:** Puc vendre una adaptació d’aquest joc?    
 **R:** Sí! Però per evitar confusions, recomano etiquetar el teu joc com a una «Adaptació Fan», i *fica un enllaç a aquest comunicat que diu que explícitament permeto les remescles comercials*. (Exemple: [una adaptació del joc per a Steam d’un altre dels meus jocs! (en anglès)](https://store.steampowered.com/app/1103210/We_Become_What_We_Behold_FanMade_Port/)). Això es fa per evitar acusacions de plagiament de gent que no saben que sempre faig projectes de codi obert i domini públic.
 
-**P:** Puc fer un simulador de cites entre el humà i el llop?
+**P:** Puc fer un simulador de cites entre el humà i el llop?    
 **R:** eh
 
 ## Full Credits
