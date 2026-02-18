@@ -92,7 +92,7 @@ _.PLAYED_BEFORE = !!window.localStorage.continueChapter;
 
 `clearText()`
 
-n3: Sigueu benvolguts! Això no és un «joc», sinò que seria més una història interactiva. Espero que us agradi llegir, ximples!
+n3: Sigueu benvolguts! Això no és un «joc», sinó que seria més aviat una història interactiva. Espero que us agradi llegir, ximples!
 
 n3: Abans de començar, com voldries llegir *tu*?
 
