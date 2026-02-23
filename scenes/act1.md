@@ -24,7 +24,7 @@ n: _TU_ ETS L'ANSIETAT
 
 `hong({mouth:"0_neutral", eyes:"0_neutral"})`
 
-h: Oh, ei! Hem tornat aquí?
+h: Oh, ei! Que n'hem tornat aquí?
 
 `hong({eyes:"0_neutral"})`
 
@@ -44,7 +44,7 @@ hong({body:"0_squeeze"});
 
 b: Humà! Escolta, estem en perill! Qui està jugant ara mateix...
 
-[...ens torturarà als dos de nou!](#act1_replay_torture)
+[...ens torturarà als dos de renou!](#act1_replay_torture)
 
 [...no trobarà un final alternatiu!](#act1_replay_alternate)
 
@@ -1182,7 +1182,7 @@ b: però mai podran emplenar el forat que tens...
 
 `bb({body:"point_heart", eyes:"pretty", mouth:"small"})`
 
-b: *aqui*.
+b: *aquí*.
 
 (...1000)
 
