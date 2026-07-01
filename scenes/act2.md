@@ -1499,7 +1499,7 @@ bb({ body:"normal", mouth:"normal", eyes:"sad" });
 attack("100p", _.SPECIAL_ATTACK);
 Game.FORCE_CANT_SKIP = false;
 setTimeout(function(){
-TABTABTABTAB publish("remove_special_attack");
+publish("remove_special_attack");
 },30);
 ```
 

@@ -1,4 +1,4 @@
- # act1
+# act1
 
 ```
 SceneSetup.act1();
@@ -28,7 +28,7 @@ h: Oh, ei! Que n'hem tornat aquí?
 
 `hong({eyes:"0_neutral"})`
 
-n: HAS DE PROTEGIR AL TEU ÉSSER HUMÀ DEL *PERILL*
+n: HAS DE PROTEGIR EL TEU ÉSSER HUMÀ DEL *PERILL*
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
@@ -190,7 +190,7 @@ h: Oh, bé, ha tornat el meu llop. Fantàààààstic.
 
 `hong({eyes:"0_neutral"})`
 
-n: HAS DE PROTEGIR AL TEU HUMÀ DEL *PERILL*
+n: HAS DE PROTEGIR EL TEU HUMÀ DEL *PERILL*
 
 `bb({eyes:"look", mouth:"small_lock"})`
 
@@ -390,7 +390,7 @@ sfx("rustle2");
 hong({body:"phone1", mouth:"neutral", eyes:"neutral"})
 ```
 
-n: PROTEGEIX AL TEU ÉSSER HUMÀ
+n: PROTEGEIX EL TEU ÉSSER HUMÀ
 
 n: DEL MÓN. D'ALTRA GENT. DE SI MATEIX.
 
