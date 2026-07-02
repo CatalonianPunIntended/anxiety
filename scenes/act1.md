@@ -71,7 +71,7 @@ b: Ens farà *NO* donar un cop de puny a l'hoste de la festa!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="flight"}}
-b: Ens farà donar un cop de puny al Simpàtic Hoste Antivilà!
+b: Ens farà donar un cop de puny al Simpàtic Hoste Antimalvat!
 {{/if}}
 
 {{if window.HACK_REPLAY.a3_ending=="jump"}}
@@ -1170,7 +1170,7 @@ b: PERILL PERILL PERILL PERILL PERILL PERILL
 
 [Estem *utilitzant* a altra gent.](#act1f_using_others)
 
-[EL TEU «MATCH» ÉS UN ASSASSÍ EN SÉRIE](#act1f_killer)
+[EL TEU «MATCH» ÉS UN ASSASSÍ EN SÈRIE](#act1f_killer)
 
 # act1f_used_by_others
 
@@ -1443,7 +1443,7 @@ b: què?
 
 `hong({body:"phone1", eyes:"anger", mouth:"anger"});`
 
-h: ANIRÈ a la festa.
+h: ANIRÉ a la festa.
 
 {{if _.act1g=="go"}}
 h: NO perquè vulguis, sinó perquè *JO* vull.

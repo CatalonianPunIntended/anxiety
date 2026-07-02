@@ -44,14 +44,14 @@ publish("act3",["roofhunter",8]);
 publish("act3",["roofhong",5]);
 ```
 
-r: Em recordes a quan era més jove. Quan l'animal al meui cap em tormentava.
+r: Em recordes a quan era més jove. Quan l'animal al meu cap em turmentava.
 
 ```
 publish("act3",["roofhunter",9]);
 publish("act3",["roofhong",2]);
 ```
 
-r: M'agrada poder tornar el favor, i ajudar-te a matar a la bèstia tal i com jo vaig matar la meva.
+r: M'agrada poder tornar el favor, i ajudar-te a matar a la bèstia tal com jo vaig matar la meva.
 
 ```
 publish("act3",["roofhunter",2]);
@@ -95,7 +95,7 @@ publish("act3",["roofhunter",10]);
 publish("act3",["roofhong",8]);
 ```
 
-r: Salta.
+r: Salta-hi.
 
 ```
 publish("act3",["roofhunter",11]);
@@ -115,7 +115,7 @@ publish("act3",["roofhong",10]);
 publish("act3",["roofhunter",2]);
 ```
 
-r: L'animalet ha començat a queixar-se, oi?
+r: L'animalet s’ha començat a queixar, oi?
 
 ```
 publish("act3",["roofhunter",23]);
@@ -133,7 +133,7 @@ r: Això és per què necessitem reptes mortals! Festes a tope! Carpe diem! Esni
 publish("act3",["roofhunter",10]);
 ```
 
-r: Mostra al animal que ens importa un *rave* els seus comentaris de ^merda^! Salta'n.
+r: Mostra a l'animal que ens importa un *rave* els seus comentaris de ^merda^! Salta'n.
 
 ```
 publish("act3",["roofhunter",11]);
@@ -168,13 +168,13 @@ r: Els ^imbècils^ que controlen aquest món ens donen a la *resta* ansietat i d
 publish("act3",["roofhunter",18]);
 ```
 
-r: I doncs fan que les TED Talks ens diguin que «hem d'acceptar» estar ^fotuts^ i que «apreciem» al dimoni sadista al nostre cap!
+r: I doncs fan que les TED Talks ens diguin que «hem d'acceptar» estar ^fotuts^ i que «apreciem» al dimoni sàdic al nostre cap!
 
 ```
 publish("act3",["roofhunter",6]);
 ```
 
-r: Nano, sé que *tu* saps que l'animal *fa mal* a la gent com nosaltres. Que *tortura* a gent com nosaltres.
+r: Nano, sé que *tu* saps que l'animal *fa mal* a la gent com nosaltres. Que *tortura* a la gent com nosaltres.
 
 ```
 publish("act3",["roofhunter",19]);
@@ -186,13 +186,13 @@ r: No és el nostre amic. És una bèstia salvatge, que ha de ser o bé *tranqui
 publish("act3",["roofhunter",20]);
 ```
 
-r: O bé ficar-li una *bala al cap*.
+r: O bé que li fiquin una *bala al cap*.
 
 ```
 publish("act3",["roofhunter",27]);
 ```
 
-r: Sinò, deixaràs que et guanyi.
+r: Sinó, deixaràs que et guanyi.
 
 ```
 publish("act3",["roofhunter",31]);
@@ -210,7 +210,7 @@ music('battle_dark', {volume:1.0}, function(){
 });
 ```
 
-h2: No deixarè que guanyi.
+h2: No deixaré que guanyi.
 
 ```
 publish("act3",["roofhunter",25]);
@@ -246,7 +246,7 @@ n: AQUEST CAPÍTOL TÉ DOS FINALS POSSIBLES. UN ÉS *MOLT, MOLT DOLENT.*
 
 b: NO NO NO NO NO NO NO NO NO NO NO NO NO NO
 
-n: ESCULL SÀVIAMENT. PROTEGEIX AL TEU HUMÀ
+n: ESCULL SÀVIAMENT. PROTEGEIX EL TEU HUMÀ
 
 `bb({ eyes:"oh_crap", mouth:"normal_talk", MOUTH_LOCK:true });`
 
@@ -309,7 +309,7 @@ bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 
 h: Saps, podria creure't... si no ho haguessis intentat tantíssims cops.
 
-h: Ets el llop que diu «que ve el llop».
+h: Ets el llop que crida «que ve el llop».
 
 ```
 bb({ eyes:"sad" });
@@ -354,9 +354,9 @@ hong({ body:"normal" });
 bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 ```
 
-h: Ja has provat amb això.
+h: Ja has provat això.
 
-b: humà, si us plau...
+b: humà, sisplau...
 
 `hong({ eyes:"look_right" });`
 
@@ -380,7 +380,7 @@ h: Hi ha qui s'abraona amb altra gent.
 
 h: Jo m'abraonaré amb la piscina.
 
-[T'has alcoholitzat i a SIS PLANTES](#act3_bad_1_harm)
+[T'has alcoholitzat i ets a SIS PLANTES](#act3_bad_1_harm)
 
 [Caram, així em dones les gràcies?!](#act3_bad_1_insult) `bb({eyes:"angry"});`
 
@@ -414,13 +414,13 @@ h: Vaig veure un rus fer això al YouTube un cop.
 
 `hong({ eyes:"look_right" });`
 
-h: J- Perdona, i les *gràcies*?
+h: Jo- Perdona, i les *gràcies*?
 
 `bb({ eyes:"angry" });`
 
 b: Això és precisament perquè *existeixo!* Perquè els humans no es poden protegir a si mateixos!
 
-b: He intentat salvar-te el teu estúpid cul tota la meva vida i ara tu ho tiraràs t--
+b: He intentat salvar el teu estúpid cul tota la meva vida i ara tu ho manaràs t--
 
 ```
 hong({body:"drink"});
@@ -527,11 +527,11 @@ b: sisplau... no...
 
 h: Tens una barra de via molt baixeta, llop.
 
-h: Si fos tu, ara em pensaria les meves paraules amb cura.
+h: Si fos tu, ara pensaria les meves paraules amb cura.
 
 `bb({ eyes:"normal" });`
 
-[Vinga. M'he cansat de protegir-te.](#act3_bad_2_jump) `bb({ mouth:"ignore", eyes:"ignore" });`
+[Vinga-hi. M'he cansat de protegir-te.](#act3_bad_2_jump) `bb({ mouth:"ignore", eyes:"ignore" });`
 
 [Tenia la raó.](#act3_bad_2_right)
 
@@ -540,7 +540,7 @@ h: Si fos tu, ara em pensaria les meves paraules amb cura.
 
 # act3_bad_2_jump
 
-b: Vinga, salta. Mira quant m'importa.
+b: Vinga, salta. Mira quant m'importes.
 
 `hong({ eyes:"look_right", mouth:"normal", MOUTH_LOCK:true });`
 
@@ -551,7 +551,7 @@ hong({ eyes:"less_angry", mouth:"normal" });
 bb({ eyes:"ignore_oh_crap" });
 ```
 
-h: Vinga. I de baix a dalt.
+h: Vinga. El cul cap a dalt, deies.
 
 ```
 bb({ mouth:"normal", eyes:"oh_crap" });
@@ -648,7 +648,7 @@ h: No sento absolutament res.
 
 `bb({mouth:"sorry", eyes:"sorry_down"});`
 
-b: Em vaig obsessionar tant amb protegir-te del dolor, que no vaig caure que *jo* era la causa d'aquest.
+b: Em vaig obsessionar tant amb protegir-te del dolor, que no vaig caure que *jo* era la causa d'aquest mateix.
 
 ```
 bb({ eyes:"sorry"});
@@ -726,11 +726,11 @@ h: Disculpes per *què*?
 
 `bb({eyes:"sorry_down"});`
 
-b: És el meu deure avisar-te del perill real, però només lladrava als cotxes i al carter.
+b: És el meu deure avisar-te del perill real, però només lladro als cotxes i al carter.
 
 `bb({eyes:"sorry_up"});`
 
-b: Lladrava a les ombres. Lladrava massa.
+b: Lladro a les ombres. Lladro més del compte.
 
 `bb({eyes:"sorry"});`
 
@@ -752,7 +752,7 @@ b: Jo havia de ser el *teu* gos guardià, però actuava com si haguessis d’*ob
 
 `bb({eyes:"sorry_up"});`
 
-b: Hi ha una diferència entre protector i director de presó, i m'he passat del límit.
+b: Hi ha una diferència entre protector i director de presó, i m’he passat de la ratlla.
 
 `bb({eyes:"sorry_down"});`
 
@@ -766,7 +766,7 @@ b: Ho sento.
 
 `bb({eyes:"sorry_down"});`
 
-b: Em vaig obsessionar tant amb protegir-te del dolor, que mai vaig parar-me a pensar que *jo* era la causa.
+b: Em vaig obsessionar tant amb protegir-te del dolor, que mai em vaig parar a pensar que *jo* era la causa d’aquest.
 
 `bb({eyes:"sorry_up"});`
 
@@ -792,7 +792,7 @@ h: ...
 hong({ body:"stop", mouth:"stop", eyes:"blank" });
 ```
 
-h: Seh, total, ja era una mala idea.
+h: Seh, total, era una mala idea.
 
 h: Només he fet això per molestar-te i, doncs, ho he fet.
 

@@ -358,7 +358,7 @@ b: Realment, què podem fer que importi de veritat?
 
 `bb({body:"normal", eyes:"sad"})`
 
-b: Contribuir a la humanitat? Tots els bons treballs cauen com en Osimàndias. L'amor? La mort sempre el fa trencar.
+b: Contribuir a la humanitat? Tota la bona feina cau com Roma. L'amor? La mort sempre el fa trencar.
 
 `bb({eyes:"sad_r"})`
 
@@ -683,7 +683,7 @@ b: Ens hem de mudar a un territori al Yukon, Canadà, i rebre el menjar per dron
 
 `bb({body:"two_up", mouth:"normal"})`
 
-b: I encara haurien d'esterilitzar el dron per treure els GERMENS D'AIXAFAGUITARRES TRISTOS
+b: I encara haurien d'esterilitzar el dron per treure els GÈRMENS D'AIXAFAGUITARRES TRISTOS
 
 `_.a2_attack_3 = "alone";`
 
@@ -1156,7 +1156,7 @@ h: Sense importar el que faci, no em puc deslliurar de tu.
 
 `bb({body:"cry_1"});`
 
-b: Potser NO HAURIES DE DESFER-TE DE MI.
+b: Potser NO T’HAURIES DE DESFER DE MI.
 
 `bb({body:"cry_2"});`
 
@@ -1325,14 +1325,14 @@ sfx("rustle2");
 publish("act2",["party_hunter",11]);
 ```
 
-r: La meva pròpia mescla especial. És una mica més forta què... sigui, realment qualsevol cosa legal.
+r: La meva pròpia mescla especial. És una mica més forta què... realment, qualsevol cosa que sigui legal.
 
 ```
 publish("act2",["party_hunter",12]);
 publish("act2",["party_hong",24]);
 ```
 
-r: El cul cap a dalt, ^joputa^!
+r: El cul cap a dalt, ^cabró^!
 
 ```
 hong({body:"hold"});
@@ -1405,7 +1405,7 @@ b: *Així* és com--
 
 # act2h_opt2
 
-b: A més, el podrie--
+b: A més, el podríe--
 
 (#act2h)
 

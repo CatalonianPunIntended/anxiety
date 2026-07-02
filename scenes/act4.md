@@ -215,7 +215,7 @@ hong({body:"hold", eyes:"normal", mouth:"normal"});
 bb({eyes:"normal"});
 ```
 
-h: Doncs, què ^carai^ és la moral d'aquesta història?
+h: Doncs, quin ^carai^ és la moral d'aquesta història?
 
 `hong({body:"one_up", eyes:"annoyed"})`
 
@@ -311,7 +311,7 @@ bb({eyes:"normal", mouth:"normal"});
 hong({eyes:"normal", mouth:"normal"});
 ```
 
-b: Després de tot pel que hem passat, encara estem aquí.
+b: Després de tot pel que hem passat, encara som aquí.
 
 `hong({eyes:"suspect"});`
 
@@ -328,13 +328,13 @@ hong({eyes:"normal"});
 bb({eyes:"annoyed_d", mouth:"narrow"});
 ```
 
-b: Well, it makes everything else less scary in comparison. It's also got me thinking.
+b: Això ha tret tota la por a la resta de coses. Però m’ha fet pensar.
 
 `bb({eyes:"normal", mouth:"normal"});`
 
 b: Si barallar-me amb tu està malament perquè no et protegeixo de res...
 
-h: Però barallar-me amb tu *també* està malament perquè només fa que et posis a cridar més...
+h: Però barallar-me amb tu *també* està malament perquè només fa que cridis més...
 
 `bb({eyes:"normal_r"})`
 
@@ -385,11 +385,11 @@ b: No soc un Llop Malvat. Però no soc un llop guardià, tampoc.
 
 `bb({eyes:"sad_d"})`
 
-b: Soc un gos agitat d'un refugi.
+b: Soc un gos agitat a un refugi.
 
 `bb({eyes:"sad"})`
 
-b: Hem passat per coses grosses. Potser trauma o negligència. I això ha fet que jo em possi a fer:
+b: Hem passat per coses grosses. Potser trauma o negligència. I això ha fet que jo em posi a fer:
 
 ```
 sfx("yaps", {volume:0.6});
@@ -418,7 +418,7 @@ b: Humà... podries domesticar aquest llop?
 
 `hong({eyes:"sad"})`
 
-h: Jo.... ho provaré.
+h: Jo... ho provaré.
 
 `hong({eyes:"normal_l", body:"chin", mouth:"narrow"})`
 
@@ -436,7 +436,7 @@ h: Estimat llop intern... com et sents *tu*?
 
 n2: PORS USADES EN TOTAL:
 
-*DANY FÍSIC* *MARGINACIÓ* *MALA PERSONA*
+n2: *DANY FÍSIC* {{_.attack_harm_total}}, *MARGINACIÓ* {{_.attack_alone_total}}, *MALA PERSONA* {{_.attack_bad_total}}
 
 n2: QUINA POR VOLS DISCUTIR PRIMER? (POTS PROVAR LES ALTRES DESPRÉS)
 
@@ -582,11 +582,11 @@ b: No veus el got 99% buit, però 1% ple?
 
 `bb({ eyes:"normal" });`
 
-h: I que encara té un valor si et trobes varat al desert.
+h: I que encara té un valor, si et trobes varat al desert.
 
 `bb({ eyes:"closed" });`
 
-b: D'acord. De baix a dalt, doncs.
+b: D'acord. El cul cap a dalt, doncs.
 
 (#act4_something_else)
 
@@ -832,7 +832,7 @@ bb({ eyes:"smile" });
 hong({ eyes:"annoyed" });
 ```
 
-h: Vinga, soc un nano vulnerable fent batxi i tu ets un llop que fa por. Què és el pitjor que po--
+h: Vinga, soc un nano vulnerable fent batxi i tu ets un llop que fa por. Què és el pitjor que po–
 
 `hong({ eyes:"normal", body:"point" });`
 
@@ -908,7 +908,7 @@ bb({ eyes:"annoyed_r" });
 
 b: Són moltes opcions. Però sobre «aprendre capacitats socials»...
 
-[Estariem *manipulant?*](#act4_alone_skills_manipulative)
+[No estaríem *manipulant?*](#act4_alone_skills_manipulative)
 
 [No ens faria *més manipulables?*](#act4_alone_skills_manipulated)
 
@@ -948,7 +948,7 @@ h: «No Siguis ^Cabró^™»
 
 `bb({ eyes:"angry" })`
 
-b: Esdevindrem en un fregapeus que digui «Benvolguts», dient «Gràcies» i «Si us plau» mentre ens trepitgen!
+b: Esdevindrem en una catifa que digui «Benvolguts», i respon amb «Gràcies» i «Si us plau» quan ens trepitgin!
 
 `bb({ mouth:"scream", eyes:"scream" })`
 
@@ -959,7 +959,7 @@ bb({ mouth:"normal", eyes:"normal" });
 hong( body:"chin" });
 ```
 
-h: Nah, tens raó. Les «capacitats socials» no poden ser només per complaure a la resta, també han de posar *barreres.*
+h: Nah, tens raó. Les «capacitats socials» no poden ser només per complaure a la resta, també han de posar *barreres*.
 
 `hong( body:"one_up" });`
 
@@ -1020,7 +1020,7 @@ h: Potser ens adonem que som més agradables del que pensem.
 
 `bb({ eyes:"annoyed" });`
 
-[I si això són petites «victóries» fàcils?](#act4_alone_experiment_cheap)
+[I si això són petites «victòries» fàcils?](#act4_alone_experiment_cheap)
 
 [I si això és una molèstia pels altres?](#act4_alone_experiment_burden)
 
@@ -1077,7 +1077,7 @@ h: No.
 
 # act4_alone_experiment_cheap
 
-b: Dir «hola» al barista no és exactament el premi d'or a les Olimpiades Xerrameques.
+b: Dir «hola» al barista no és exactament el premi d'or a les Olimpíades Xerrameques.
 
 ```
 hong({ body:"point", eyes:"surprise" });
@@ -1092,17 +1092,17 @@ h: A l'arena social, no seríem ni pes ploma, però ens apropem a... pes quark.
 
 `hong({ body:"normal", eyes:"normal" });`
 
-h: Si hem de començar amb victòries petites i fàcils, que així sigui. Haurem de trepitjar el 1r esglaó abans del 1000è.
+h: Si hem de començar amb victòries petites i fàcils, que sigui així. Haurem de trepitjar el 1r esglaó abans del 1000è.
 
 b: Sí! Potser després de dir «Hola», podem continuar amb un...
 
 `bb({ body:"two_up", mouth:"smile", eyes:"smile_u" });`
 
-b: *«Com estàs?»*
+b: *«Com estàs?».*
 
 `hong({ body:"shrug", mouth:"smile", eyes:"surprise_l" });`
 
-h: *«Tot bé!»*
+h: *«Molt bé!».*
 
 (#act4_something_else)
 
@@ -1132,7 +1132,7 @@ hong({ eyes:"annoyed_l", mouth:"narrow" });
 bb({ eyes:"annoyed", mouth:"smile" });
 ```
 
-h: Ja m'entens, són les estupideses als pamflets de l'hospital.
+h: Ja m'entens, són estupideses escrites als pamflets de l'hospital.
 
 (#act4_something_else)
 
@@ -1202,7 +1202,7 @@ h: I si ho necessitéssim, podem tenir ajuda professional – un terapeuta o ori
 
 h: Hi han de formes per arreglar-nos.
 
-[I si no podem arreglar tot?](#act4_bad_fix_cant)
+[I si no ho podem arreglar tot?](#act4_bad_fix_cant)
 
 [I si arreglem *massa*?](#act4_bad_fix_too_much)
 
@@ -1251,7 +1251,7 @@ bb({body:"chest", mouth:"smile_talk", MOUTH_LOCK:true, eyes:"sexy"}, 0);
 hong({eyes:"normal", mouth:"normal"}, 0);
 ```
 
-h: No facis això si us plau.
+h: No facis això, si us plau.
 
 (#act4_something_else)
 
@@ -1275,7 +1275,7 @@ b: Sense el desordre, no seríem incapaços de connectar amb amics amb aquest de
 
 `bb({ eyes:"sad", body:"chest" })`
 
-b: Si mai estem satisfets amb la vida, pararíem d'inspirar-nos a fer grans obres?
+b: Si mai estem satisfets amb la vida, ja no estaríem inspirats a fer grans obres?
 
 `hong({ MOUTH_LOCK:true })`
 
@@ -1295,11 +1295,11 @@ b: Oh, sí! Buf! Quina alegria!
 
 `bb({ body:"one_up", eyes:"sexy", mouth:"normal" })`
 
-b: «Doctor, em fa angoixa pagar 100 $/hora només per a què em preguntis *"com et fa sentir això?"*»
+b: «Doctor, em fa angoixa pagar 100 $/hora només per a què em preguntis *"com et fa sentir això?"*».
 
 `bb({ body:"paw", eyes:"closed", mouth:"narrow" })`
 
-b: «Mm-hmm. I com et fa sentir això?»
+b: «Mm-hmm. I com et fa sentir això?».
 
 ```
 bb({ body:"normal", eyes:"normal", mouth:"normal" });
@@ -1310,11 +1310,11 @@ h: Nah, és una preocupació molt raonable.
 
 `hong({ eyes:"annoyed", mouth:"sad" });`
 
-h: I realment és un fàstic que la assistència per la salut mental no sigui assequible per a molta gent.
+h: I realment és un fàstic que l'assistència per la salut mental no sigui assequible per a molta gent.
 
 `hong({ eyes:"normal", mouth:"normal" });`
 
-h: Però, sempre hi ha opcions de baix cost o fins i tot de franc:
+h: Però sempre hi ha opcions de baix cost o fins i tot de franc:
 
 `hong({ body:"chin" })`
 
@@ -1341,7 +1341,7 @@ b: Caram, la quarta paret no ha durat massa.
 
 `hong({ body:"point" });`
 
-h: Algunes coses Són més importants que les conveniències narratives. Com ara la salut mental.
+h: Algunes coses són més importants que les conveniències narratives. Com ara la salut mental.
 
 (#act4_something_else)
 
@@ -1372,7 +1372,7 @@ b: Un moment.
 
 `bb({ eyes:"angry", body:"one_up" });`
 
-b: Creus que Martin Luther King podria haver dit «Ai que mal no podem asseure'ns al davant de l'autobús, però hem d'*acceptar*»?
+b: Creus que Martin Luther King podria haver dit «Ai que mal que no podem asseure'ns al davant de l'autobús, però ho hem d'*acceptar*»?
 
 `bb({ eyes:"angry_r", body:"two_up" });`
 
@@ -1402,7 +1402,7 @@ b: Jo ho puc *reconèixer*.
 
 `bb({ eyes:"angry" });`
 
-b: Com si fos *bo* el que estiguem trencats? No!
+b: Com si fos *bo* que estiguem trencats? No!
 
 `bb({ eyes:"angry_r", body:"one_up" });`
 
@@ -1459,7 +1459,7 @@ b: Però ja *sabem* que no hauries de fer-me cas punt per punt.
 
 `bb({ eyes:"sad_u", body:"two_up" });`
 
-b: El problema és que et vull ajudar, però se'm dona fatal trobar les paraules!
+b: El problema és que et vull ajudar, però no tinc traça per a trobar les paraules!
 
 `bb({ eyes:"sad", body:"normal" });`
 
@@ -1478,7 +1478,7 @@ b: Doncs, els terapeutes haurien de dir *allò* en comptes d'un mot tan confús 
 
 `hong({ body:"chin", eyes:"annoyed" });`
 
-h: Suposo que també se'ls dona fatal escollir les paraules, a més.
+h: Suposo que tampoc tenen traça per a escollir les paraules.
 
 (#act4_something_else)
 
@@ -1532,7 +1532,7 @@ b: Quina conveniència.
 
 # act4c_prelude
 
-h: Bona xerrada, grup.
+h: Bona xerrada, penya.
 
 (#act4c)
 
@@ -1666,7 +1666,7 @@ s: AHHHHH HO SABIA! ÉS UN PSICÒPATA PERILLÓS IMPULSIU!
 {{/if}}
 
 {{if _.TOP_FEAR=="alone"}}
-s: AAHHH LA SEVA PRIMERA IMPRESSIÓ NOSTRA HA SIGUT «HA VIST EL NOSTRE TRAUMA»! ENS ODIA!
+s: AAHHH LA SEVA PRIMERA IMPRESSIÓ NOSTRA HA SIGUT QUE «HA VIST EL NOSTRE TRAUMA»! ENS ODIA!
 {{/if}}
 
 {{if _.TOP_FEAR=="bad"}}
@@ -1824,7 +1824,7 @@ b: Vull ser un bon gos guardià. Com la set i la fam són alarmes per a les nece
 
 `publish("act4", ["bb_closer", 8]);`
 
-b: Vull ser l'alarma per a les teves necessitats *psicológiques* – les teves necessitats de seguretat, de pertànyer, de bondat.
+b: Vull ser l'alarma per a les teves necessitats *psicològiques* – les teves necessitats de seguretat, de pertànyer, de bondat.
 
 `publish("act4", ["bb_closer", 1]);`
 
@@ -1852,7 +1852,7 @@ b: Lladraré a les ombres. T'espantaré amb les meves paraules. Potser et mostro
 
 `publish("act4", ["bb_closer", 9]);`
 
-b: Ho sento! Soc com un gos agitat d'un refugi! Els gossos agitats es caguen al teu llit de tant en tant!
+b: Ho sento! Soc com un gos agitat a un refugi! Els gossos agitats es caguen al teu llit de tant en tant!
 
 `publish("act4", ["bb_closer", 4]);`
 
@@ -1971,11 +1971,11 @@ publish("act4", ["hong_closer", 5]);
 ```
 
 {{if _.fifteencigs}}
-b: AAAAA ENCARA MENGES SOL QUINZE CIGARRETES AAAAA
+b: AAAAA ENCARA MENGES SOL BLA BLA QUINZE CIGARRETES AAAAA
 {{/if}}
 
 {{if _.parasite}}
-b: AAAAA ENCARA NO POTS PRODUIR MENTRE MENGES SOM PARÀSITS DE LA SOCIETAT AAAAA
+b: AAAAA ENCARA NO ETS PRODUCTIU MENTRE MENGES SOM PARÀSITS DE LA SOCIETAT AAAAA
 {{/if}}
 
 {{if _.whitebread}}
@@ -1995,4 +1995,3 @@ Game.FORCE_NO_VOICE = true;
 b: BUB BUB BUB BUB BUB
 
 (#credits)
-
