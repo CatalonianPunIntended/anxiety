@@ -763,7 +763,7 @@ b: ...
 
 `bb({ eyes:"annoyed" })`
 
-b: Espera, cap discussió a favor en contra del qual penso? Només... «gràcies»?
+b: Espera, cap discussió a favor en contra del que penso? Només... «gràcies»?
 
 `hong({ eyes:"surprise", body:"shrug" })`
 
@@ -1787,7 +1787,7 @@ Game.WORDS_HEIGHT_BOTTOM = -1; /* reset */
 
 `publish("act4-jumpcut-hong");`
 
-h: Heh. Que estrany. Em pregunto que els passava pel cap.
+h: Heh. Que estrany. Em pregunto què els passava pel cap.
 
 `publish("act4", ["hong_closer", 2]);`
 
@@ -1820,11 +1820,11 @@ b: Però vull tenir més que pau amb tu! Vull que siguem *aliats!*
 
 `publish("act4", ["bb_closer", 3]);`
 
-b: Vull ser un bon gos guardià. Com la set i la fam són alarmes per a les necessitats físiques,
+b: Vull ser un bon gos guardià. Com també la set i la fam són alarmes per a les necessitats físiques,
 
 `publish("act4", ["bb_closer", 8]);`
 
-b: Vull ser l'alarma per a les teves necessitats *psicològiques* – les teves necessitats de seguretat, de pertànyer, de bondat.
+b: Jo vull ser l'alarma per a les teves necessitats *psicològiques* – les teves necessitats de seguretat, de pertànyer, de bondat.
 
 `publish("act4", ["bb_closer", 1]);`
 
@@ -1971,15 +1971,15 @@ publish("act4", ["hong_closer", 5]);
 ```
 
 {{if _.fifteencigs}}
-b: AAAAA ENCARA MENGES SOL BLA BLA QUINZE CIGARRETES AAAAA
+b: AAAAA ENCARA MENGES SOL QUINZE CIGARRETES AAAAA
 {{/if}}
 
 {{if _.parasite}}
-b: AAAAA ENCARA NO ETS PRODUCTIU MENTRE MENGES SOM PARÀSITS DE LA SOCIETAT AAAAA
+b: AAAAA NO ETS PRODUCTIU MENTRE MENGES SOM PARÀSITS DE LA SOCIETAT AAAAA
 {{/if}}
 
 {{if _.whitebread}}
-b: AAAAA ESTÀS MENJANT ENCARA MÉS PA BLANC AAAAA
+b: AAAAA MENJES FINS I TOT MÉS PA BLANC AAAAA
 {{/if}}
 
 ```
