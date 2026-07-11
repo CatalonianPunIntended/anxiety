@@ -1716,7 +1716,7 @@ sfx("hit");
 
 (...1000)
 
-h: Vindrè a la festa de la setmana que vé.
+h: Vindrè a la festa de la setmana que ve.
 
 h: El següent cop que hagi de lluitar, no només et *derrotarè*...
 
