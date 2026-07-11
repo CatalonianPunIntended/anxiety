@@ -395,7 +395,7 @@ b: ...
 
 `bb({eyes:"suspect"})`
 
-b: Ehm... em pots escoltar, humà?
+b: Ehm... que em sents, humà?
 
 `bb({eyes:"normal", MOUTH_LOCK:true})`
 
@@ -977,7 +977,7 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: Has de veure els teus errors amb humitat per créixer com a persona!
+b: Has de veure els teus errors amb humilitat per créixer com a persona!
 
 `bb({body:"two_up", eyes:"suspect"})`
 
